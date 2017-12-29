@@ -37,4 +37,4 @@ Except for the events described above invitations to regular meetings is not som
 
 ## After hours team events
 
-Once every 1 or 2 months we try to do a team event for all Forecasters that are interested. Anyone is free to suggest things we can do in the #social-activities slack channel and previously it has been everything from drinking a simple beer, going to dinner to go-carting or escape rooming. So come on, bring your best ideas!
+Once every 1 or 2 months we try to do a team event for all Forecasters that are interested. Anyone is free to suggest things we can do in the #social-activities slack channel and previously it has been everything from drinking a simple beer, going to dinner to go-carting or escape rooming. Sometimes Forecast pays for it, sometimes it's paid partly and sometimes Forecasters pay for it themselves. So come on, bring your best ideas! :bike: :doughnut: :tropical_drink:
