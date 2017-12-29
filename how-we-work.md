@@ -56,7 +56,7 @@ Except for the events described above invitations to regular meetings is not som
 
 ## Self-organizing, independent teams called chapters
 
-Many books have been written about organizational structures. We seek to efficient and lean in our approach, meaning that we keep a very flat structure. This means a single chapter should be able to go from idea to deploy as independently as possible. This is where we try to emulate a living organism that is fully self-sustaining and capable of making autonumous decisions.
+Many books have been written about organizational structures. We seek to be efficient and lean in our approach, meaning that we keep a very flat structure. This means a single chapter should be able to go from idea to deploy as independently as possible. This is where we try to emulate a living organism that is fully self-sustaining and capable of making autonumous decisions.
 
 ### Chaplains
 

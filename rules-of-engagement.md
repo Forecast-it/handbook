@@ -1,5 +1,7 @@
 # Rules of engagement
 
+All Forecasters adhere to the following rules of engagement:
+
 1. I'll be passionate about Forecast's mission, about my work. I'll love what we do for companies and employees everywhere.
 2. I'll demonstrate respect for the individual. I'll be nice an listen to others, and respect myself. I'll act with integrity and professionalism.
 3. I'll do whatever it takes to get the job done, no matter what it takes, but within legal and ethical boundaries.
@@ -18,4 +20,4 @@
 16. I'll acknowledge that we, collectively, have the power to keep an open and honest culture. Be a good person. Be a professional but also as a human.
 17. I'll agree to live and follow these values. If my colleagues fail to live up to any of these rules, I'll speak up and will help them correct; in turn, I'll be open to constructive criticism from my colleagues should I fail to live by these values. I understand that my performance will be judged in part by how well I demonstrate these values in my daily work.
 
-Non opus Diligentia, Vis, Celeritas - We work with precision, power, speed.
+Non opus Diligentia, Vis, Celeritas - We work with precision, power, speed. :shipit:

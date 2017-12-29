@@ -11,7 +11,7 @@ Making the best company helps us make the best product which is a guiding princi
 
 If you’re reading this just after joining as a Forecaster, it’s particularly on you. Us old timers can't spot the broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
 
-This handbook is a fearless adventure in knowing what to do when no one’s there telling you what to do...
+This handbook is a fearless adventure in knowing what to do when no one’s there telling you what to do... :princess:
 
 ## Sections
 * [You, as a Forecaster](https://github.com/Forecast-it/handbook/blob/master/you-as-a-forecaster.md)

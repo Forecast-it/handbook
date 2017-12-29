@@ -6,7 +6,7 @@
 
 The reason being that people tend to do the same mistakes because their current tools are not helping them make better decisions.
 
-Taking advantage of the entire company’s data history and using it for predictions is so complex that AI and ML is the only way to solve it.
+Taking advantage of the entire company’s data history and using it for predictions is so complex that AI and ML is the only way to solve it. :computer:
 
 ## Dirty experiences gave us all dirty hands
 

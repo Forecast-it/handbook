@@ -8,7 +8,9 @@ Forecasters are incredibly talented individuals that are empowered to put their 
 
 At Forecast you’re strongly encouraged to share your thoughts, experiences, and learnings internally but even more importantly sharing them externally at meet-ups, on our blog and everywhere else you can think of. The vast majority of our customers come from word of mouth and much of that word comes from people in our audience.
 
-It's also worth mentioning that joining Forecast can be all-consuming. We've seen it happen. You really dig Forecast, so you feel a natural pressure to contribute, maybe overwhelmingly so. The people who work here are some of the best and brightest in our industry, so the self-imposed burden to be exceptional is real. But please remember to take care of yourself. We're glad you love this job because we all do too, but at the end of the day we just want you to do your best work, collaborate with your team, write, code, read, learn, and then turn off your computer and do some sports, play a game, or watch a movie (preferably one with [Schwarzenegger](http://www.imdb.com/title/tt0093773/)). We'll all be better for it.
+It's also worth mentioning that joining Forecast can be all-consuming. We've seen it happen. You really dig Forecast, so you feel a natural pressure to contribute, maybe overwhelmingly so. The people who work here are some of the best and brightest in our industry, so the self-imposed burden to be exceptional is real. But please remember to take care of yourself. 
+
+We're glad you love this job because we all do too, but at the end of the day we just want you to do your best work, collaborate with your team, write, code, read, learn, and then turn off your computer and do some sports, play a game, or watch a movie (preferably one with [Schwarzenegger](http://www.imdb.com/title/tt0093773/)). We'll all be better and more productive for it.
 
 Although the goals in this book are important, it’s really your ideas, talent, and energy that will keep Forecast shining in the years ahead. Thanks for being here. Let’s make things great by making great things.
 
