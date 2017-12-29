@@ -23,7 +23,7 @@ Commander's intent is taken from and plays a central role in military decision m
 
 ## Townhalls
 
-Once a month our CEO entertains an all hands townhall typically lasting just shy of an hour. 
+Once a month our CEO entertains an all hands townhall, typically lasting just shy of an hour. 
 This is where the big presentation of strategy and current performance is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level. 
 
 ## Sprints
@@ -47,6 +47,12 @@ Once a week the product teams have a one hour demo meeting where everyone at For
 ## Retros
 
 Once a month we have a retrospective meeting for about one hour. At this meeting all Forecasters participate and this is where we reflect on how we're doing, how things are progressing and how we can improve the ways we're working, communicating, making decisions and so on. As always, it's a friendly setting where everyone is allowed to speak freely about anything.
+
+## Regular meetings
+
+Inviting people to regular meetings is something we try to refrain from. If you're invited to a meeting without a clear agenda or it's not been agreed to beforehand, then you're free to decline. 
+
+Except for the events described above invitations to regular meetings is not something we typically do. If you invite people for a meeting, please have a clear goal and think about all the people's time and company money you're wasting for every minute it's not productive. 
 
 ## Self-organizing, independent teams called chapters
 
@@ -74,7 +80,7 @@ Whether you work on the product development or not, your voice and observations 
 
 If it has an impact because it requires design, development or other Forecasters involvement you just write down the idea in a card and put it in for analysis. The product team will then pick it up and decide if it's something we should build and when we can fit it into our roadmap.
 
-## Prioritizing new ideas
+### Prioritizing new ideas
 
 New ideas in Forecast is always prioritized taking the following things into account:
 

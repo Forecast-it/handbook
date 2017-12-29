@@ -2,6 +2,8 @@
 
 Like most other organizations in the world, Forecast has over time developed a vocabulary specific to our work and company.
 
+Please feel free to modify, update and add new stuff to this vocabulary. You, yes I'm pointing at you!!!
+
 **Project** - Planned set of interrelated tasks to be executed over a period and within certain cost and other limitations. It is defined by a contract/budget that has been approved by a client. (M&P An independent billable Client request) A project has an associated color.
 
 **People** - The human aspect of the company. This could be time reported, utilization, calendars, workload etc.
