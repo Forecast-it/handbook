@@ -12,6 +12,16 @@ It's also worth mentioning that joining Forecast can be all-consuming. We've see
 
 Although the goals in this book are important, it’s really your ideas, talent, and energy that will keep Forecast shining in the years ahead. Thanks for being here. Let’s make things great by making great things.
 
+## The team is the culture
+
+At Forecast we should of course have fun, work hard, collaborate and do our best.
+
+**but**
+
+Execution and speed is key - not perfection
+
+You must at all times focus on the right things - your areas of expertise
+
 ## Your first day(s) here
 
 So you’ve gone through the interview process, you’ve signed the contracts, and you’re finally here at Forecast. Congratulations!
@@ -27,4 +37,4 @@ Please check the following:
 5. I've familiarised myself with the ideal personas, the product and the pains it's solving.
 6. I know what to start working on.
 
-If you can answer no to any of these questions above, please talk to the nearest person to clear the issue up.
+If you can answer no to any of these questions above, please talk to the nearest person to clear the issue up. Otherwise you're good to go, go go! 

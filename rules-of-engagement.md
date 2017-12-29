@@ -14,7 +14,7 @@
 12. I'll always pursue and drive customer customer satisfaction.
 13. I'll have fun at work and approach my job with enthusiasm.
 14. I'll be a good person to work with -- I'll not be a jerk.
-15. I'll never talk negativley and destructively behind someone's back; rather I'll confront them with the issue I'm facing or wanted to comment to others about, to allow us all to have a trusting and hyper-productive collaborative environment.
+15. I'll never talk negativley and destructively behind someone's back; rather I'll confront them with the issue I'm facing or wanted to comment to others about, to allow us all to have a trusting and hyper-productive collaborative and autonomous environment.
 16. I'll acknowledge that we, collectively, have the power to keep an open and honest culture. Be a good person. Be a professional but also as a human.
 17. I'll agree to live and follow these values. If my colleagues fail to live up to any of these rules, I'll speak up and will help them correct; in turn, I'll be open to constructive criticism from my colleagues should I fail to live by these values. I understand that my performance will be judged in part by how well I demonstrate these values in my daily work.
 
