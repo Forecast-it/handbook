@@ -31,9 +31,19 @@ Once a month we have a retrospective meeting for about one hour. At this meeting
 
 ## Regular meetings
 
+Teamwork over meetings. Meetings should be kept to a minimum.
+
 Inviting people to regular meetings is something we try to refrain from. If you're invited to a meeting without a clear agenda or it's not been agreed to beforehand, then you're free to decline. 
 
-Except for the events described above invitations to regular meetings is not something we typically do. If you invite people for a meeting, please have a clear goal and think about all the people's time and company money you're wasting for every minute it's not productive.
+Except for the events described above invitations to regular meetings is not something we typically do. If you invite people for a meeting, please have a clear goal and think about all the people's time and company money you're wasting for every minute it's not productive. 
+
+## Meetups
+
+We try to participate in relevant meetups, at these we often give a talk, pitch or sponsor. 
+
+Currently we're driving one meetup together with Valtech called [#DPMCOPE - Digital Project Management CPH](https://www.meetup.com/DPMCOPE/). The other main one we participate in is [#AgilityLab Copenhagen](https://www.meetup.com/agilitylab/) where we act as co-organizer, sometimes hosting, sometimes speaking and sometimes just participating as guests.
+
+At all meetups we encourage Forecasters to go learn interesting new things and participate in the community. All Forecasters are always welcome to pitch ideas for intersting talks about a relevant topic.
 
 ## After hours team events
 

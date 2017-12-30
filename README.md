@@ -3,7 +3,7 @@
 We're the [Forecasters](https://www.forecast.it/).
 A company that thrives on innovation, collaboration and customer happiness. A company with no silos or towers of knowledge. Where the team is a cohesive whole that functions like a constantly evolving, living organism.
 
-This is where we share what’s worth knowing about Forecast the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about when they say “check Mission Control”, what a meet-up is, why we use so many movie quotes, and hopefully everything in-between.
+This is where we share what’s worth knowing about Forecast the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about when they say “check Mission Control”, what a meetup is, why we use so many movie quotes, and hopefully everything in-between.
 
 Ohh, and if you're looking for information on fringe benefits or how to set up your workstation or where to find source code, this book isn’t it.
 
