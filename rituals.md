@@ -43,7 +43,7 @@ We try to participate in relevant meetups, at these we often give a talk, pitch 
 
 Currently we're driving one meetup together with Valtech called [#DPMCOPE - Digital Project Management CPH](https://www.meetup.com/DPMCOPE/). The other main one we participate in is [#AgilityLab Copenhagen](https://www.meetup.com/agilitylab/) where we act as co-organizer, sometimes hosting, sometimes speaking and sometimes just participating as guests.
 
-At all meetups we encourage Forecasters to go learn interesting new things and participate in the community. All Forecasters are always welcome to pitch ideas for intersting talks about a relevant topic.
+At all meetups we encourage Forecasters to go learn interesting new things and participate in the community. All Forecasters are also always welcome to pitch ideas for intersting talks about a relevant topic.
 
 ## After hours team events
 
