@@ -75,3 +75,6 @@ It wouldn’t make sense for us to operate that way. Providing the freedom to fa
 Screwing up is a great way to find out that your assumptions were wrong or that your model of the world was a little bit off. As long as you update your model and move forward with a better picture, you’re doing it right. Look for ways to test your beliefs. Never be afraid to run an experiment or to collect more data.
 
 Actually, if you never make a mistake you're probably not pushing yourself enough... Just don't be [Bart Simpson](https://www.youtube.com/watch?v=SVBR3mo9RKA), ok?
+
+>I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain. 
+-- Frank Herbert, Dune

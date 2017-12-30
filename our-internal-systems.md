@@ -4,7 +4,7 @@ Besides the customer-facing application Forecast, we have a number of internal s
 
 ### Intercom
 
-Our main onboarding, custoer chat and support system.
+Our main onboarding, customer chat and support system.
 
 ### Hotjar
 
@@ -16,12 +16,33 @@ The CRM system used by the commercial team.
 
 ### Slack
 
-We use this for all chat communication.
+We use this for all internal chat communication.
 
 ### Github
 
 Where we host all of our code repositories.
 
 ### Kibana
+
 TODO
+
+### Sendgrid
+
+All transactional and newsletters are sent via this service.
+
+### Stripe
+
+All our credit card payments are handled by this service.
+
+### Gsuite
+
+We use the full suite for email, documents and filesharing.
+
+### Zeplin
+
+All our sketch wireframes are uploaded here.
+
+### Invision
+
+Mostly used for sharing designs, moodboards etc.
 
