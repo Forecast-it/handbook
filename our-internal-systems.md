@@ -24,7 +24,7 @@ Where we host all of our code repositories.
 
 ### Kibana
 
-TODO
+Logging of errors for bug fixing, monitoring and troubleshooting the production code.
 
 ### Sendgrid
 

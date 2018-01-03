@@ -13,7 +13,7 @@ At Forecast We work in 1-week sprints. These small iterations enable us to chang
 
 The idea is not that everything we ever decide to work on can be completed in that time. But rather that we think about how we can break big projects into smaller building blocks that can be assembled into a cohesive whole.
 
-On the product level everything is automated so that when a developer merges their code into the testing branch all tests are run automatically and it's deployed to our staging environment. As it passes succesfully though that we can push code to the live production environment instantly.
+On the product level everything is automated so that when a developer merges their code into the testing branch all tests are run automatically and it's deployed to our staging environment. As it passes succesfully through testing we can push code to the live production environment from there instantly.
 
 The general concept of sprints extends to all parts of Forecast. It gives us a regular rhythm and ensures that all parts of the company work in unison and deliver at a regular pace.
 
