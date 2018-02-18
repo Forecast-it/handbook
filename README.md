@@ -21,6 +21,7 @@ This handbook is a fearless adventure in knowing what to do when no one’s ther
 * [How we work](https://github.com/Forecast-it/handbook/blob/master/how-we-work.md)
 * [Rituals](https://github.com/Forecast-it/handbook/blob/master/rituals.md)
 * [Our internal systems](https://github.com/Forecast-it/handbook/blob/master/our-internal-systems.md)
+* [Security](https://github.com/Forecast-it/handbook/blob/master/security.md)
 * [Side jobs](https://github.com/Forecast-it/handbook/blob/master/side-jobs.md)
 * [Product history](https://github.com/Forecast-it/handbook/blob/master/product-history.md)
 * [Vocabulary](https://github.com/Forecast-it/handbook/blob/master/vocabulary.md)
