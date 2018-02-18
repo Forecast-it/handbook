@@ -6,8 +6,8 @@ This is why we're fully compliant and adhering to the European General Data Prot
 
 Please follow these links to see more details on how we protect our client data:
 
-* [Security](https://www.forecast.it/security)
-* [GDPR and data protection](https://www.forecast.it/data-protection)
+* [Security and data protection](https://www.forecast.it/security)
+* [GDPR](https://www.forecast.it/gdpr)
 
 ## Security guidelines
 
