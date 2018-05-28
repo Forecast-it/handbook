@@ -18,6 +18,10 @@ Where we host all of our code repositories.
 
 Logging of errors for bug fixing, monitoring and troubleshooting the production code.
 
+### Sentry
+
+Logging of errors for bug fixing, monitoring and troubleshooting the production code.
+
 ### Sendgrid
 
 All transactional and newsletters are sent via this service.
@@ -46,6 +50,10 @@ Mostly used for sharing designs, moodboards, testing prototypes etc.
 
 We use this to help troubleshoot things in Forecast that are difficult for our users. For instance if we introduced a new feature, do people then understand how it works. If they do, great! If not, we'll have to take a look at it again in the product team.
 
+### Mixpanel
+
+Mostly used analysis of user behaviour.
+
 ### AWS
 
-We use this service hos all our infrastructure.
+We use this service to host all our infrastructure.
