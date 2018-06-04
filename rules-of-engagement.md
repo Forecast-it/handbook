@@ -13,7 +13,7 @@ All Forecasters adhere to the following rules of engagement:
 9. I'll support the culture of meritocracy and pay for performance.
 10. I'll focus on results and winning. Goals, not just winning yardage.
 11. I'll be transparent. I'll communicate, be brutally honest, even when it's difficult, because I trust my colleagues.
-12. I'll always pursue and drive customer customer satisfaction.
+12. I'll always pursue and drive customer satisfaction.
 13. I'll have fun at work and approach my job with enthusiasm.
 14. I'll be a good person to work with -- I'll not be a jerk.
 15. I'll never talk negativley and destructively behind someone's back; rather I'll confront them with the issue I'm facing or wanted to comment to others about, to allow us all to have a trusting and hyper-productive collaborative and autonomous environment.
