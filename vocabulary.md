@@ -24,12 +24,12 @@ This replaces customer.
 This replaces phase.
 Synonym: Phase, Epic, Feature
 
-**Card** - A piece of work in a project. A card can have a description, estimates, dependencies, attachments, labels, status and be assigned to team members. Also it can have todo’s or subtasks. A card can be marked as a bug and be blocked.
-This replaces ticket, task, user story.
-Synonym: Ticket, task, user story, requirement
+**Task** - A piece of work in a project. A task can have a description, estimates, dependencies, attachments, labels, status and be assigned to team members. Also it can have todo’s or subtasks. A task can be marked as a bug and be blocked.
+This replaces ticket, card, user story.
+Synonym: Ticket, issue, card, user story, requirement
 
-**Blocked card** - When a card is unable to move through the workflow because of unforeseen circumstances e.g. waiting for approval, dependencies, not enough detail.
-This state is visually marked on a card.
+**Blocked task** - When a task is unable to move through the workflow because of unforeseen circumstances e.g. waiting for approval, dependencies, not enough detail.
+This state is visually marked on a task.
 
 **Subtask** - A sub-division of a card into smaller pieces of work. This can have an estimate, title and description. Can be marked completed and will have an effect on the time left on a card.
 These can be converted to cards if needed.
@@ -109,7 +109,6 @@ This could be solved by the ability to copy an existing project or marking an ex
 **Rate** - The cost pr. hour for a given role that is being billed to a client. How much every role can be sold for to the client.
 
 **Rate card** - A collection of rates that one or more clients are being billed.
-This has nothing to do with a card.
 
 **Cost** - The price pr. hour for the team member that is incurred by the company. How much every team member is worth in terms of salary.
 
@@ -122,4 +121,4 @@ This has nothing to do with a card.
 **Skills** - A set of abilities that the team member has e.g. UX research, programming, sketch, drawing, cooking. A team member can have many skills. 
 This will be modelled as labels in the system.
 
-**Permissions** - The view that the user has the rights to see e.g. a team member should not be able to see financial information on a card.
+**Permissions** - The view that the user has the rights to see e.g. a team member should not be able to see financial information on a task.
