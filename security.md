@@ -18,3 +18,4 @@ All Forecasters must adhere to the following guidelines to ensure privacy and da
 3. Do not share your passwords with other people, including other Forecasters.
 4. When sharing files, please make sure they can be seen by the intended recipient only (use puclic sharing with caution).
 5. Make sure that outside people in the office have offical business and a Forecast chaperone.
+6. If you're the last one to leave the office, make sure that the alarm and video surveillance has been activated.
