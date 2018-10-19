@@ -16,4 +16,4 @@ To eliminate all manual and error-prone project work and ensure that all project
 
 We want to be the best in the world at what we do by building a world-class product and service. We ask for and act on candid feedback to learn continuously from both our customers and the team. We know there’s always room to improve.
 
-Forecast will be the ultimate [Professional Service Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) core to run any project-driven organization! :rocket:
+Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) core to run any project-driven organization! :rocket:
