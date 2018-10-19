@@ -19,11 +19,11 @@ The general concept of sprints extends to all parts of Forecast. It gives us a r
 
 ## Standups
 
-It’s hard to keep up on what everyone is doing and what it means so we have a daily morning standup for the entire company where everyone spends less than 2 minutes explaining what they worked on yesterday, what they'll work on today and if they need help from anyone on things that are causing difficulties.
+It’s hard to keep up on what everyone is doing and what it means, so we have a daily morning standup for the individual teams where everyone spends less than 2 minutes explaining what they worked on yesterday, what they'll work on today and if they need help from anyone on things that are causing difficulties.
 
 ## Demos
 
-Once a week the product teams have a one hour demo meeting where everyone at Forecast is encouraged to attend. At this meeting the product team members take turns showing what has been built during the previous week and explains everyone what, how and why it was built.
+Once a week the product teams have a one hour demo meeting where everyone at Forecast is encouraged to attend. At this meeting the product team members take turns showing what has been built during the previous week and explains everyone what, how and why it was built. It's also at demo meetings anyone can ask questions about anything that involves the entire company.
 
 ## Retros
 
