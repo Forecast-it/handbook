@@ -7,7 +7,7 @@ All Forecasters adhere to the following rules of engagement:
 3. I'll do whatever it takes to get the job done, no matter what it takes, but within legal and ethical boundaries.
 4. I'll not waste money and I'll question every cost. I know that this is a company and not a charity.
 5. I'll present solutions to problems and suggest actionable recommendations.
-6. I'll help my colleagues and recognize the team when we win.I'll never let them behind when we lose.
+6. I'll help my colleagues and recognize the team when we win. I'll never let them behind when we lose.
 7. I'll constantly improve. I'll approach everyday as an opportunity to do a better job, admitting to and learning from my mistakes.
 8. I'll selflessly pursue customer success.
 9. I'll support the culture of meritocracy and pay for performance.
