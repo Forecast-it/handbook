@@ -1,6 +1,6 @@
 # Why we're here - The Forecast manifesto
 
-We created forecast to simplify and automate resource & project management. Profitability and deadlines are important, but there is something even more essential: Creativity and innovation. That’s what makes our customers’ tick, and that's what makes their teams happy.
+We created Forecast to simplify and automate resource & project management. Profitability and deadlines are important, but there is something even more essential: Creativity and innovation. That’s what makes our customers’ tick, and that's what makes their teams happy.
 
 When creativity and innovation take center stage, their resource & project management tool should not. Complexity and cumbersome manual processes kill creativity and innovation. That is why we have taken a radically new approach to digital resource & project management in any type of organization.
 
