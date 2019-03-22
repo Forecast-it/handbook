@@ -2,15 +2,13 @@
 
 ## Philosophy
 
-We created Forecast to simplify and automate resource & project management. Profitability and deadlines are important, but there is something even more essential: Creativity and innovation. That’s what makes our customers’ tick, and that's what makes their teams happy.
+Imagine a world where everyone has full knowledge and makes the optimal business decisions, every minute of every day. A world where everyone knows what to work on and there’s full insight into every project with just one click.  
 
-When creativity and innovation take center stage, their resource & project management tool should not. Complexity and cumbersome manual processes kill creativity and innovation. That is why we have taken a radically new approach to digital resource & project management in any type of organization.
+Imagine what freedom it would bring to operations if there is always optimal use of people, work, and time.
 
-We focus exclusively on the needs of digital projects, and cut out all features only needed by other types of projects. We will use this focus not only to make a simple interface, but also to include some powerful features rarely included in traditional resource & project management tools.
+At Forecast, we believe your every day should be filled with less ad-hoc and administrative work. That freedom creates more room to focus on evolving, improving and empowering your people to think innovatively. Whether it is designing, structuring, acting or simply steering the company in the right direction, Forecast has your back.
 
-But we aim higher than just making resource & project management easier. We want to automate it. Our goal is to eliminate all manual processes of resource & project management by using artificial intelligence to setup and manage projects automatically.
-
-Our goal is to build a resource & project management tool that is instantly familiar to a digital project manager, because all features are designed specifically for him or her. The interface should be simple because it has less features designed to build skyscrapers and rocketships, but more powerful if you are a digital project manager because it has features specifically for your needs. And finally the tool should use AI to eliminate and automate all manual processes.
+Increase agility with a platform that embraces a radically new approach of continuous improvement and learning by leveraging Artificial Intelligence (AI). Instead of spending time collecting data, we think you should be spending time acting from data. That will enable you to move from the old world projects first to a new world of clients first, which in turn will help you deliver better results.
 
 ## The Forecast vision
 
