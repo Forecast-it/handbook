@@ -13,6 +13,10 @@ If you’re reading this just after joining as a Forecaster, it’s particularly
 
 This handbook is a fearless adventure in knowing what to do when no one’s there telling you what to do... :princess:
 
+## About Forecast
+Forecast is a business management platform that helps project-driven organizations automate operations, empower people and leverage insights to drive business performance and client success.
+
+
 ## Sections
 * [You, as a Forecaster](https://github.com/Forecast-it/handbook/blob/master/you-as-a-forecaster.md)
 * [Why we're here](https://github.com/Forecast-it/handbook/blob/master/why-we-are-here.md)
