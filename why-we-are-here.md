@@ -1,4 +1,6 @@
-# Why we're here - The Forecast manifesto
+# Why we're here
+
+## Philosophy
 
 We created Forecast to simplify and automate resource & project management. Profitability and deadlines are important, but there is something even more essential: Creativity and innovation. That’s what makes our customers’ tick, and that's what makes their teams happy.
 
@@ -10,7 +12,7 @@ But we aim higher than just making resource & project management easier. We want
 
 Our goal is to build a resource & project management tool that is instantly familiar to a digital project manager, because all features are designed specifically for him or her. The interface should be simple because it has less features designed to build skyscrapers and rocketships, but more powerful if you are a digital project manager because it has features specifically for your needs. And finally the tool should use AI to eliminate and automate all manual processes.
 
-# The Forecast vision
+## The Forecast vision
 
 To eliminate all manual and error-prone project work and ensure that all projects are successful and profitable while bringing delight to both customers, their clients and team members.
 
