@@ -4,7 +4,7 @@ Besides the customer-facing application Forecast, we have a number of internal s
 
 ### Hubspot
 
-The CRM and marketing automation system used by the commercial team.
+CRM and marketing automation.
 
 ### AWS
 
