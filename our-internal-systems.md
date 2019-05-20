@@ -1,6 +1,6 @@
 # Our internal systems
 
-Besides the customer-facing application Forecast, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
+Besides the customer-facing application Forecast, we have a number of internal systems that help us support, report, and operate the company.
 
 ### Hubspot
 
