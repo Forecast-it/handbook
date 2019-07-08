@@ -67,8 +67,6 @@ These are predefined, but can be modified by a PM.
 **Time entry** - The amount of time a person has spent on a card or idle.
 This replaces time report, log time.
 
-**Jacek** - A mysterious creature that you must NEVER stress under no cirumstance as it'll lose control of it's bowel movements.
-
 **Sales pipeline** - Set of potential contracts/projects that a salesperson will bring to the company.
 
 **Schedule** - Planning of projects and people on a calendar. 
