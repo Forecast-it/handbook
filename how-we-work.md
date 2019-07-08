@@ -47,6 +47,16 @@ A commercial Chapter is also run by a Chaplain and then consists of people from 
 
 Our working hours are very flexible, but to have great team cohesion we encourage most people to be in the physical Copenhagen office at least 4 days a week. This has two clear benefits; one that questions are easily resolved and two that fewer balls are dropped and thus our velocity can be maintained at a continuously high pace. At Forecast we value the balance of speed, power and precision.
 
+### Before Working From Home (WFH)
+
+Before you WFH please ensure you're following these guidelines:
+
+* Let your manager know at least 24 hours in advance.
+* Be available and responsive via email, chat, and phone from 9:00-17:00
+* A WFH day is not a vacation day.  Be at least as productive from home as you would be in the office.
+* If you have meetings, you need to inform the others in all your meetings that you are joining remotely, and set up the video/phone call yourself.
+* In general, prioritize face-to-face meetings over dial in.  Use common sense, and avoid working from home on days where you have a bunch of meetings scheduled.
+
 ### Working hours
 
 While people sometimes choose to push themselves to work some extra hours at times when something big is going out the door, for the most part working overtime for extended periods indicates a fundamental failure in planning or communication. If this happens at Forecast, it’s a sign that something needs to be reevaluated and corrected. The thing we work hardest at is hiring good people, so we want them to stick around and have a good balance between work and family and the rest of the important stuff in life. If you find yourself working long hours, or just generally feel like that balance is out of whack, be sure to raise the issue with whomever you feel would help.
@@ -55,7 +65,7 @@ While people sometimes choose to push themselves to work some extra hours at tim
 
 Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is to pitch your idea to a few of your fellow Forecasters. If they like it and it doesn't have an impact on the product or commercial roadmap, then go, go, go for it! 
 
-If it has an impact because it requires design, development or other Forecasters involvement you just write down the idea in a card and put it in for analysis. The product team will then pick it up and decide if it's something we should build and when we can fit it into our roadmap.
+If it has an impact because it requires design, development or other Forecasters involvement you just write down the idea in a task and put it in for analysis. The product team will then pick it up and decide if it's something we should build and when we can fit it into our roadmap.
 
 ### Prioritizing new ideas
 
