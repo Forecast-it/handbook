@@ -120,3 +120,5 @@ This could be solved by the ability to copy an existing project or marking an ex
 This will be modelled as labels in the system.
 
 **Permissions** - The view that the user has the rights to see e.g. a team member should not be able to see financial information on a task.
+
+**M&P** - [A hand gun](https://www.smith-wesson.com/mp) or [motor cycle gear](https://www.mandp.co.uk/). Maybe even a [model agency](http://www.mandpmodels.com/)!
