@@ -47,7 +47,7 @@ Our working hours are very flexible, but to have great team cohesion we encourag
 
 Before you WFH please ensure you're following these guidelines:
 
-* Let your manager know at least 24 hours in advance.
+* Let your manager know directly at least 24 hours in advance.
 * Be available and responsive via email, chat, and phone from 9:00-17:00
 * A WFH day is not a vacation day.  Be at least as productive from home as you would be in the office.
 * If you have meetings, you need to inform the others in all your meetings that you are joining remotely, and set up the video/phone call yourself.
