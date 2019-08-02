@@ -39,10 +39,6 @@ A [Chaplain](http://warhammer40k.wikia.com/wiki/Chaplain) is the single person r
 
 A product Chapter is run by a single Chaplain and then consists of people from design + experience, full stack devs. that also do functionality testing and data science that take care of our machine learning capabilities. This ensures that we have teams that can go all the way from initial idea or concept to a fully deployed feature in Forecast. Combined with our automated testing and deployment process we can thus ensure that we have decoupled releases.
 
-### Commercial Chapters
-
-A commercial Chapter is also run by a Chaplain and then consists of people from marketing, sales and customer success. This ensures that we have teams that can take a sales play all the way from initial idea to a fully supported an onboarded new Forecast customer.
-
 ## Working from home vs. being in the office
 
 Our working hours are very flexible, but to have great team cohesion we encourage most people to be in the physical Copenhagen office at least 4 days a week. This has two clear benefits; one that questions are easily resolved and two that fewer balls are dropped and thus our velocity can be maintained at a continuously high pace. At Forecast we value the balance of speed, power and precision.
