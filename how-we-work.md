@@ -57,6 +57,9 @@ Before you WFH please ensure you're following these guidelines:
 
 While people sometimes choose to push themselves to work some extra hours at times when something big is going out the door, for the most part working overtime for extended periods indicates a fundamental failure in planning or communication. If this happens at Forecast, it’s a sign that something needs to be reevaluated and corrected. The thing we work hardest at is hiring good people, so we want them to stick around and have a good balance between work and family and the rest of the important stuff in life. If you find yourself working long hours, or just generally feel like that balance is out of whack, be sure to raise the issue with whomever you feel would help.
 
+## Sickness
+In case of absence due to sickness, let your manager know directly as soon as possible and no later than 8 a.m. on the first day. Subsequent days you need to do the same. Remember to report the time as sickness in Forecast as well. 
+
 ## Pitching new ideas
 
 Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is to pitch your idea to a few of your fellow Forecasters. If they like it and it doesn't have an impact on the product or commercial roadmap, then go, go, go for it! 
