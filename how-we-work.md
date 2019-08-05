@@ -23,21 +23,21 @@ Commander's intent is taken from and plays a central role in military decision m
 
 ## Self-organizing, independent teams called chapters
 
-Many books have been written about organizational structures. We seek to be efficient and lean in our approach, meaning that we keep a very flat structure. This means a single [Chapter](http://warhammer40k.wikia.com/wiki/Chapter) should be able to go from idea to deploy as independently as possible. This is where we try to emulate a living organism that is fully self-sustaining and capable of making autonumous decisions.
+Many books have been written about organizational structures. We seek to be efficient and lean in our approach, meaning that we keep a very flat structure. This means a single [Chapter](http://warhammer40k.wikia.com/wiki/Chapter) should be able to go from idea to deploy as independently as possible. This is where we try to emulate a living organism that is fully self-sustaining and capable of making autonomous decisions.
 
 >A Chapter is a completely autonomous military unit made up of one thousand of the superhuman warriors known as Space Marines or Astartes and their related vehicles, starships and support personnel. Each Chapter serves collectively with the others of its kind as part of the Imperium of Man's Adeptus Astartes.
 -- Warhammer 40k
 
 ### Chaplains
 
-A [Chaplain](http://warhammer40k.wikia.com/wiki/Chaplain) is the single person resonsible for driving a Chapter. A Chapter is a small cross-functional self-organized team with less than 10 people. They have end-to-end responsibilities and they work together towards their long-term mission. In chapters the key drive is autonomy.
+A [Chaplain](http://warhammer40k.wikia.com/wiki/Chaplain) is the single person responsible for driving a Chapter. A Chapter is a small cross-functional self-organized team with less than 10 people. They have end-to-end responsibilities and they work together towards their long-term mission. In chapters the key drive is autonomy.
 
 >A Chaplain is a specialist officer of the Adeptus Astartes and serves as the appointed spiritual leader of a Space Marine Chapter.
 -- Warhammer 40k
 
 ### Product Chapters
 
-A product Chapter is run by a single Chaplain and then consists of people from design + experience, full stack devs. that also do functionality testing and data science that take care of our machine learning capabilities. This ensures that we have teams that can go all the way from initial idea or concept to a fully deployed feature in Forecast. Combined with our automated testing and deployment process we can thus ensure that we have decoupled releases.
+A product Chapter is run by a Chaplain and then consists of people from design + experience, full stack devs. that also do functionality testing and data science that take care of our machine learning capabilities. This ensures that we have teams that can go all the way from initial idea or concept to a fully deployed feature in Forecast. Combined with our automated testing and deployment process we can thus ensure that we have decoupled releases.
 
 ## Working from home vs. being in the office
 
