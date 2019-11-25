@@ -15,16 +15,16 @@ This handbook is a fearless adventure in knowing what to do when no one’s ther
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
-* [Why we're here](https://github.com/Forecast-it/handbook/blob/master/why-we-are-here.md)
-* [Rules of engagement](https://github.com/Forecast-it/handbook/blob/master/rules-of-engagement.md)
-* [What influenced us](https://github.com/Forecast-it/handbook/blob/master/what-influenced-us.md)
-* [How we work](https://github.com/Forecast-it/handbook/blob/master/how-we-work.md)
-* [Rituals](https://github.com/Forecast-it/handbook/blob/master/rituals.md)
-* [Our internal systems](https://github.com/Forecast-it/handbook/blob/master/our-internal-systems.md)
-* [Security](https://github.com/Forecast-it/handbook/blob/master/security.md)
-* [Side jobs](https://github.com/Forecast-it/handbook/blob/master/side-jobs.md)
-* [Product history](https://github.com/Forecast-it/handbook/blob/master/product-history.md)
-* [Vocabulary](https://github.com/Forecast-it/handbook/blob/master/vocabulary.md)
+* [Why we're here](why-we-are-here.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](master/how-we-work.md)
+* [Rituals](rituals.md)
+* [Our internal systems](our-internal-systems.md)
+* [Security](security.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
 
 ## About Forecast
 Forecast is a business management platform that helps project-driven organizations automate operations, empower people and leverage insights to drive business performance and client success.
