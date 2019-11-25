@@ -5,7 +5,7 @@ Forecast has gone over quite a few iterations and with each one we've learnt mor
 ***
 ### V5.0
 
-![2018-1](https://github.com/Forecast-it/handbook/blob/master/screens/2018-1.gif)
+![2018-1](/screens/2018-1.gif)
 
 ![2018-2](https://github.com/Forecast-it/handbook/blob/master/screens/2018-2.png)
 
