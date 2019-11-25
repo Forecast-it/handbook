@@ -14,7 +14,7 @@ If you’re reading this just after joining as a Forecaster, it’s particularly
 This handbook is a fearless adventure in knowing what to do when no one’s there telling you what to do... :princess:
 
 ## Sections
-* [You, as a Forecaster](https://github.com/Forecast-it/handbook/blob/master/you-as-a-forecaster.md)
+* [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](https://github.com/Forecast-it/handbook/blob/master/why-we-are-here.md)
 * [Rules of engagement](https://github.com/Forecast-it/handbook/blob/master/rules-of-engagement.md)
 * [What influenced us](https://github.com/Forecast-it/handbook/blob/master/what-influenced-us.md)
