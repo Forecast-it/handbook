@@ -18,7 +18,7 @@ This handbook is a fearless adventure in knowing what to do when no one’s ther
 * [Why we're here](why-we-are-here.md)
 * [Rules of engagement](rules-of-engagement.md)
 * [What influenced us](what-influenced-us.md)
-* [How we work](master/how-we-work.md)
+* [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Our internal systems](our-internal-systems.md)
 * [Security](security.md)
