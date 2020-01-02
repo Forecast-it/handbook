@@ -2,10 +2,10 @@
 
 At Forecast we're not big on meeting but to provide some structure and information transfer we have certain rituals that we gather around. :fire:
 
-## Townhalls
+## Town halls
 
-Once a month our CEO entertains an all hands townhall, typically lasting just shy of an hour. 
-This is where the big presentation of strategy and current performance is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level. 
+Once a month our CEO entertains an all hands town hall, typically lasting just shy of an hour. 
+This is where the big presentation of strategy and current performance is done, and the main way for you to keep in the loop with what the company is focused on at a high, digestible level. It's also at town halls anyone can ask questions about anything that involves the entire company.
 
 ## Sprints
 
@@ -23,11 +23,11 @@ It’s hard to keep up on what everyone is doing and what it means, so we have a
 
 ## Demos
 
-Once a week the product teams have a one hour demo meeting where everyone at Forecast is encouraged to attend. At this meeting the product team members take turns showing what has been built during the previous week and explains everyone what, how and why it was built. It's also at demo meetings anyone can ask questions about anything that involves the entire company.
+Once a week the product teams have a one hour demo meeting where everyone at Forecast is encouraged to attend. At this meeting the product team members take turns showing what has been built during the previous week and explains everyone what, how and why it was built. 
 
 ## Retros
 
-Once a month we have a retrospective meeting for about one hour. At this meeting all Forecasters participate and this is where we reflect on how we're doing, how things are progressing and how we can improve the ways we're working, communicating, making decisions and so on. As always, it's a friendly setting where everyone is allowed to speak freely about anything.
+Individual teams have retrospective meeting at their own cadence. At this meeting all team members participate and this is where we reflect on how we're doing, how things are progressing and how we can improve the ways we're working, communicating, making decisions and so on. As always, it's a friendly setting where everyone is allowed to speak freely about anything.
 
 ## Regular meetings
 
@@ -45,6 +45,8 @@ Currently we're driving one meetup together with Valtech called [#DPMCOPE - Digi
 
 At all meetups we encourage Forecasters to go learn interesting new things and participate in the community. All Forecasters are also always welcome to pitch ideas for intersting talks about a relevant topic.
 
-## After hours team events
+## After hours team events & Friday Fun
 
-Once every 1 or 2 months we try to do a team event for all Forecasters that are interested. Anyone is free to suggest things we can do in the #social-activities slack channel and previously it has been everything from drinking a simple beer, going to dinner to go-carting or escape rooming. Sometimes Forecast pays for it, sometimes it's paid partly and sometimes Forecasters pay for it themselves. So come on, bring your best ideas! :bike: :doughnut: :tropical_drink:
+Once every 2-3 months we try to do an out-of-office team event for all Forecasters that are interested. Anyone is free to suggest things we can do in the #social-activities slack channel and previously it has been ranging from going to dinner to go-carting or escape rooming. Forecast pays for these events, either partly or in whole. So come on, bring your best ideas! :bike: :doughnut: :tropical_drink:
+
+Friday Fun is a more low-key concept where Forecast donates a fixed amount to one or more people that pool together and feel like hosting an event on Friday afternoon. This can been everything from drinking a simple beer to board-games, console gaming tournaments or quizzes (often involving the theme Hawaii).
