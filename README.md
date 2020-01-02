@@ -30,7 +30,6 @@ Dennis Kayser – CEO
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
-* [Our internal systems](our-internal-systems.md)
 * [Security](security.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
