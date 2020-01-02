@@ -2,7 +2,7 @@
 
 On behalf of everyone, I welcome you as a new [Forecaster](https://www.forecast.app/) to Forecast Technologies and wish you every success here.
 
-Forecast is a company that thrives on innovation, collaboration and customer happiness. A company with no silos or towers of knowledge. Where the team is a cohesive whole that functions like a constantly evolving, living organism. We believe that each employee contributes directly to the Company’s growth and success, and we hope you will take pride in being a member of our team.
+Forecast is a company that thrives on innovation, collaboration and customer happiness. A company with no silos or towers of knowledge. Where the team is a cohesive whole that functions like a constantly evolving, living organism. We believe that each employee contributes directly to the Forecast’s growth and success, and we hope you will take pride in being a member of our team.
 
 This is where we share what’s worth knowing about Forecast the company, our culture, our process, expectations, and our history. It’s a guide to understanding what people are talking about when they say “check Mission Control”, what Friday Fun is, why we use so many movie quotes, and hopefully everything in-between.
 
@@ -37,7 +37,11 @@ Dennis Kayser – CEO
 * [Vocabulary](vocabulary.md)
 
 ## About Forecast
-Forecast is a business management platform that helps project-driven organizations automate operations, empower people and leverage insights to drive business performance and client success.
+At Forecast, we believe that work should be fun and enjoyable, and that software should support that work process. Our goal is to make a platform that is smarter, more connected and user-friendly. So, we only hire visionary people on our team to make that happen.
+
+We were founded in 2016 and are scaling fast. Forecast is currently used in 40+ countries worldwide, with the majority of customers in the US and Canada. We see that there’s a niche in the market for combining task, project and resource management with machine learning technologies to advance people’s work process. That’s why we built the Forecast Business Management platform.
+
+We combine a collaborative team environment with a passion for innovation, cutting-edge tech, Artificial Intelligence (AI), Machine Learning (ML), great design and excellent customer service. It’s the kind of atmosphere where taking ownership and initiative is encouraged- and there are no limits to what you can accomplish.
 
 ## Purpose of this handbook
 As a Forecaster (employee of Forecast) you will have received an individual Employment Agreement which outlines the general terms and conditions of employment.
