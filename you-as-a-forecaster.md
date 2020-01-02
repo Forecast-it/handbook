@@ -1,4 +1,4 @@
-# You as a Forecaster
+# You, as a Forecaster
 
 Everyone working at Forecast is a Forecaster. 
 
