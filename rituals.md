@@ -49,4 +49,5 @@ At all meetups we encourage Forecasters to go learn interesting new things and p
 
 Once every 2-3 months we try to do an out-of-office team event for all Forecasters that are interested. Anyone is free to suggest things we can do in the #social-activities slack channel and previously it has been ranging from going to dinner to go-carting or escape rooming. Forecast pays for these events, either partly or in whole. So come on, bring your best ideas! :bike: :doughnut: :tropical_drink:
 
+
 Friday Fun is a more low-key concept where Forecast donates a fixed amount to one or more people that pool together and feel like hosting an event on Friday afternoon. This can been everything from drinking a simple beer to board-games, console gaming tournaments or quizzes (often involving the theme Hawaii).
