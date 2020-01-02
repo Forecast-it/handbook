@@ -1,6 +1,6 @@
-# Rules of engagement
+# Rules Of Engagement (ROE)
 
-All Forecasters adhere to the following rules of engagement:
+All Forecasters adhere to the following Rules Of Engagement:
 
 1. I'll be passionate about Forecast's mission, about my work. I'll love what we do for companies and people everywhere.
 1. I'll demonstrate respect for the individual. I'll be nice an listen to others, and respect myself. I'll act with integrity and professionalism.
