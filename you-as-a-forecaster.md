@@ -40,3 +40,6 @@ Please check the following:
 6. I know what to start working on.
 
 If you can answer no to any of these questions above, please talk to the nearest person to clear the issue up. Otherwise you're good to go, go go! 
+
+### Hardware
+As needed, you'll be provided with a work laptop, mouse, keyboard, monitor(s), phone etc. so that you can perform your duties. These items will remain the property of Forecast Technologies and you'll be required to return it to Forecast on request or upon the termination of employment. Obviously don't operate a vehicle while using any of these items...
