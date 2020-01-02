@@ -1,4 +1,4 @@
-# Security
+# Security & data protection
 
 Security and data protection is extremely important to Forecast. We need to make sure we safeguard both our internal data, but in particular also our client data.
 
