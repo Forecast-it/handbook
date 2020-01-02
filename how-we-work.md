@@ -62,7 +62,16 @@ Before you WFH please ensure you're following these guidelines:
 While people sometimes choose to push themselves to work some extra hours at times when something big is going out the door, for the most part working overtime for extended periods indicates a fundamental failure in planning or communication. If this happens at Forecast, it’s a sign that something needs to be reevaluated and corrected. The thing we work hardest at is hiring good people, so we want them to stick around and have a good balance between work and family and the rest of the important stuff in life. If you find yourself working long hours, or just generally feel like that balance is out of whack, be sure to raise the issue with whomever you feel would help.
 
 ## Sickness
-In case of absence due to sickness, let your manager know directly as soon as possible and no later than 8 a.m. on the first day. Subsequent days you need to do the same. Remember to report the time as sickness in Forecast as well. 
+In case of absence due to sickness, let your nearest line manager know directly as soon as possible and no later than 8 a.m. on the first day. Subsequent days you need to do the same. If your manager is not available, please speak to a manager at the same level as your own manager. Remember to report the time as sickness in Forecast as well. 
+
+If you're sick for more than 8 consecutive days, we might require a Statement of Fitness confirming being unfit for work from your doctor for the remainder of the absence. But if you're reasonable, we'll be reasonable, so this shouldn't be an issue.
+
+## Holidays / vacation
+Vacation and holiday entitlement has been detailed in your Employment Agreement. We follow the official public Holidays in the country you're employed, so one office might be closed when others are still open.
+
+Vacation is accrued according to the rules of the country you're employed. Please inform your manager at the earliest if you inted to take vacation so he/she can plan for how to cover in the period. 
+
+Vacation requests will generally be allocated on a first come, first served basis, and Forecast Technologies reserves the right to ensure that allocation at busy times is fair in all the circumstances and that there is sufficient coverage to enable it to operate effectively, which may mean that the request for a vacation is refused. 
 
 ## Pitching new ideas
 
