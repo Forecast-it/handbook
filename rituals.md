@@ -23,7 +23,7 @@ It’s hard to keep up on what everyone is doing and what it means, so we have a
 
 ## Demos
 
-Once a week the product teams have a one hour demo meeting where everyone at Forecast is encouraged to attend. At this meeting the product team members take turns showing what has been built during the previous week and explains everyone what, how and why it was built. 
+Once a week each product team have a one hour demo meeting where everyone at Forecast are welcome to attend. At this meeting the product team members take turns showing what has been built during the previous week and explains everyone what, how and why it was built. 
 
 ## Retros
 
