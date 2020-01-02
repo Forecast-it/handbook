@@ -6,6 +6,10 @@ We expect everyone to understand the broader context, prioritize, and take actio
 
 We're not fans of office politics or optimizing for your own success at the expense of others. That's why we only hire people who are motivated to help others around them succeed. 
 
+We value all Forecasters and will endeavour to create a safe and positive working environment where all workers are treated with dignity and respect.
+
+Our management style is based on our beliefs that all Forecasters are honest and trustworthy and should be treated with respect and confidence.
+
 ## We're here to scale globally
 
 We’ve got off to a great start, but we’re still at the beginning of reaching our vision. We’re all extremely motivated by the huge amount of things we’ll build and improve together in the coming years.
