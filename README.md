@@ -38,3 +38,10 @@ Dennis Kayser – CEO
 
 ## About Forecast
 Forecast is a business management platform that helps project-driven organizations automate operations, empower people and leverage insights to drive business performance and client success.
+
+## Purpose of this andbook
+As a Forecaster (employee of Forecast) you will have received an individual Employment Agreement which outlines the general terms and conditions of employment.
+
+The information contained in this Handbook applies to all our employees. Following the policies described in this handbook is considered a condition of continued employment. However, nothing in this handbook alters an employee’s status. The contents of this handbook shall not constitute nor be construed as a promise of employment or as a contract between Forecast Technologies as a company and any of its employees. 
+
+The handbook is a summary of our policies, which are presented here only as a matter of information. You are responsible for reading, understanding, and complying with the provisions of this handbook. Our objective is to provide you with a positive and safe work environment that is free from discrimination and harassment.
