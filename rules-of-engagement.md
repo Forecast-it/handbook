@@ -19,3 +19,15 @@ All Forecasters adhere to the following Rules Of Engagement:
 1. I'll agree to live and follow these values. If my colleagues fail to live up to any of these rules, I'll speak up and will help them correct; in turn, I'll be open to constructive criticism from my colleagues should I fail to live by these values. I understand that my performance will be judged in part by how well I demonstrate these values in my daily work.
 
 Non opus Diligentia, Vis, Celeritas - We work with precision, power, speed. :shipit:
+
+## Other sections
+* [You, as a Forecaster](you-as-a-forecaster.md)
+* [Why we're here](why-we-are-here.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Security & data protection](security-data-protection.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
