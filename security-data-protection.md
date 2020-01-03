@@ -37,4 +37,3 @@ All Forecasters must adhere to the following guidelines to ensure privacy and da
 * [Career progression](career-progression.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Vocabulary](vocabulary.md)
