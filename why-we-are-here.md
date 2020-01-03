@@ -21,3 +21,15 @@ We foresee the transition from manual data collection to automated learning from
 At Forecast, we want to be the best at what we do by building a world-class product and service. We ask for, act, and reflect on candid feedback to continuously learn from our customers. From our own agility, we always know there’s room to improve.
 
 Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) core to run any project-driven organization! :rocket:
+
+## Other sections
+* [You, as a Forecaster](you-as-a-forecaster.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Security & data protection](security-data-protection.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
