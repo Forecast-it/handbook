@@ -20,6 +20,7 @@ We hope that your experience here will be challenging, enjoyable, and rewarding.
 
 Sincerely
 
+<img src="/dennis-signature.png" width="200px">
 
 Dennis Kayser – CEO
 
