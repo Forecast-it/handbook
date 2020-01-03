@@ -34,6 +34,15 @@ At your 1:1 you'll have a dialogue with your line manager on the path to the nex
 
 At Forecast we believe in continous feedback. This means that at any point you shouldn't be in doubt about your performance. If you for some unforseen reason are in doubt, then please ask your manager directly!
 
+### Non-performance
+In rare cases where a Forecaster is not achieving the required standards of conduct or performance, this will be discussed with the individual by their line manager on an informal basis. Where it is appropriate the Forecaster will be provided with the necessary guidance, support and training to help achieve the standards that Forecast sets. Their progress and response to this will be monitored and regularly reviewed.
+
+This procedure will also be implemented immediately if it is alleged that the Forecaster’s conduct, behaviour or performance is so far outside Forecast or normal standards that it would not be appropriate to deal with it informally.
+
+Forecast Technologies will handle all disciplinary cases fairly and consistently, ensuring the circumstances of each individual case are taken into account.
+
+In short, there should be no doubt if you're not performing or behaving badly. You'll know right away as your manager will bring it up immediately or at your regular 1:1s.
+
 ### Manager 1:1s
 You'll meet with your manager for a 1:1 session on their regular cadence (typically weekly or bi-weekly). It's up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Managers should have a conversation with you about:
 - your daily work content and load
@@ -53,4 +62,3 @@ This is a two-way street! You should be offering your thoughts on these topics t
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Vocabulary](vocabulary.md)
