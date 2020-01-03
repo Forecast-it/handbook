@@ -15,3 +15,15 @@ Coming from a Computer Science background with a few years of different industry
 Our goal was and still is to this day, to make it possible and even easy, simple and delightful to plan and run everything from small simple projects to large complex projects, in a way that is accurate, predictable, and profitable.
 
 We are achieving our goal through a fresh approach where we apply AI and Machine Learning technology to ease the dull, numbing pain of administering projects, people and time. We do this so our customers can spend their time on exciting this, fresh ideas and all the fun stuff. We take pride in having customers from all around the globe to put trust in us helping them run their business better and smarter.
+
+## Other sections
+* [You, as a Forecaster](you-as-a-forecaster.md)
+* [Why we're here](why-we-are-here.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Security & data protection](security-data-protection.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
