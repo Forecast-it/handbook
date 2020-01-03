@@ -51,4 +51,3 @@ Please ask if in doubt :smile:
 * [Career progression](career-progression.md)
 * [Security & data protection](security-data-protection.md)
 * [Product history](product-history.md)
-* [Vocabulary](vocabulary.md)
