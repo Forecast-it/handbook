@@ -1,10 +1,10 @@
 # Security & data protection
 
-Security and data protection is extremely important to Forecast. We need to make sure we safeguard both our internal data, but in particular also our client data.
+Security and data protection is extremely important to Forecast. We need to make sure we safeguard both our internal data, and in particular our customer data.
 
-This is why we're fully compliant and adhering to the European General Data Protection Regulation (EU GDPR). To live up to this we must ensure that we have both internal controls and processes to ensure data is kept secure at all times as well as infrastructure and 3rd party systems that support security at the core.
+This is why we're fully compliant and adhering to the European Data Protection Act 2018 (DPA) and the General Data Protection Regulation (EU) 2016/679 (GDPR). To live up to this we must ensure that we have both internal controls and processes to ensure data is kept secure at all times as well as infrastructure and 3rd party systems that support security at the core.
 
-Please follow these links to see more details on how we protect our client data:
+Please follow these links to see more details on how we protect our customer data:
 
 * [Security and data protection](https://www.forecast.app/security)
 * [EU GDPR - General Data Protection Regulation](https://www.forecast.app/gdpr)
