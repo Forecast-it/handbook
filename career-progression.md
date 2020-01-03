@@ -1,6 +1,6 @@
 # Career progression
 
-At Forecast team turnover is extremely low. We take great pride in that and attribute it to having a great place to work, with amazing and talented people and interesting problems to solve. When you work at Forecast, it should be something you think about being a place for making a life-long career.
+At Forecast team turnover is extremely low. We take great pride in that, and attribute it to having a great place to work, with amazing and talented people and interesting problems to solve. When you work at Forecast, it should be something you think about being a place for making a life-long career.
 
 ## Titles
 
