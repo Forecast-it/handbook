@@ -43,3 +43,15 @@ If you can answer no to any of these questions above, please talk to the nearest
 
 ### Hardware
 As needed, you'll be provided with a work laptop, mouse, keyboard, monitor(s), phone etc. so that you can perform your duties. These items will remain the property of Forecast Technologies and you'll be required to return it to Forecast on request or upon the termination of employment. Obviously don't operate a vehicle while using any of these items...
+
+## Other sections
+* [Why we're here](why-we-are-here.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Security & data protection](security-data-protection.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
