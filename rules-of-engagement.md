@@ -30,4 +30,3 @@ Non opus Diligentia, Vis, Celeritas - We work with precision, power, speed. :shi
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Vocabulary](vocabulary.md)
