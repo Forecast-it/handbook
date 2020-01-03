@@ -26,4 +26,3 @@ We are achieving our goal through a fresh approach where we apply AI and Machine
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Vocabulary](vocabulary.md)
