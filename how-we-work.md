@@ -101,15 +101,6 @@ Actually, if you never make a mistake you're probably not pushing yourself enoug
 >I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain. 
 -- Frank Herbert, Dune
 
-## Non-performance
-In rare cases where a Forecaster is not achieving the required standards of conduct or performance, this will be discussed with the individual by their line manager on an informal basis. Where it is appropriate the Forecaster will be provided with the necessary guidance, support and training to help achieve the standards that Forecast sets. Their progress and response to this will be monitored and regularly reviewed.
-
-This procedure will also be implemented immediately if it is alleged that the Forecaster’s conduct, behaviour or performance is so far outside Forecast or normal standards that it would not be appropriate to deal with it informally.
-
-Forecast Technologies will handle all disciplinary cases fairly and consistently, ensuring the circumstances of each individual case are taken into account.
-
-In short, there should be no doubt if you're not performing or behaving badly. You'll know right away as your manager will bring it up immediately or at your regular 1:1s.
-
 ## Other sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
@@ -120,4 +111,3 @@ In short, there should be no doubt if you're not performing or behaving badly. Y
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Vocabulary](vocabulary.md)
