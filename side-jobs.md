@@ -40,3 +40,15 @@ Here’s a few guiding principles about whether something could be a problem:
 In general we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance.
 
 Please ask if in doubt :smile:
+
+## Other sections
+* [You, as a Forecaster](you-as-a-forecaster.md)
+* [Why we're here](why-we-are-here.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Security & data protection](security-data-protection.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
