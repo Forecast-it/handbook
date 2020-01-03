@@ -27,3 +27,14 @@ All Forecasters must adhere to the following guidelines to ensure privacy and da
 1. Make sure that outside people in the office have offical business and a Forecast chaperone.
 1. If you're the last one to leave the office, make sure that the alarm and video surveillance has been activated.
 
+## Other sections
+* [You, as a Forecaster](you-as-a-forecaster.md)
+* [Why we're here](why-we-are-here.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
+* [Vocabulary](vocabulary.md)
