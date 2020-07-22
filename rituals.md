@@ -59,6 +59,7 @@ Friday Fun is a more low-key concept where Forecast donates a fixed amount to on
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Career progression](career-progression.md)
+* [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
