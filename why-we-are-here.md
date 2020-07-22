@@ -29,6 +29,7 @@ Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wiki
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
