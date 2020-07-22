@@ -1,6 +1,9 @@
 # Business travel policy
 
+INSERT TRAVEL STUFF HERE
 
+
+## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Rules of engagement](rules-of-engagement.md)
