@@ -59,6 +59,7 @@ This is a two-way street! You should be offering your thoughts on these topics t
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
+* [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
