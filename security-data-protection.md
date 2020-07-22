@@ -34,6 +34,7 @@ All Forecasters must adhere to the following guidelines to ensure privacy and da
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
+* [Travel policy](travel-policy.md)
 * [Career progression](career-progression.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
