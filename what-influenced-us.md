@@ -23,6 +23,7 @@ We are achieving our goal through a fresh approach where we apply AI and Machine
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
