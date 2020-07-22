@@ -49,5 +49,6 @@ Please ask if in doubt :smile:
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Product history](product-history.md)
