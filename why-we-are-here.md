@@ -33,3 +33,4 @@ Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wiki
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
+* [Danish holiday FAQs](holiday-faq.md)

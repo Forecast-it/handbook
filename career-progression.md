@@ -63,3 +63,4 @@ This is a two-way street! You should be offering your thoughts on these topics t
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
+* [Danish holiday FAQs](holiday-faq.md)

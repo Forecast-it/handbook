@@ -52,3 +52,4 @@ Please ask if in doubt :smile:
 * [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Product history](product-history.md)
+* [Danish holiday FAQs](holiday-faq.md)

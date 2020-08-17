@@ -112,3 +112,4 @@ Actually, if you never make a mistake you're probably not pushing yourself enoug
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
+* [Danish holiday FAQs](holiday-faq.md)

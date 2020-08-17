@@ -36,6 +36,7 @@ Dennis Kayser – CEO
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
+* [Danish holiday FAQs](holiday-faq.md)
 
 ## About Forecast
 At Forecast, we believe that work should be fun and enjoyable, and that software should support that work process. Our goal is to make a platform that is smarter, more connected and user-friendly. So, we only hire visionary people on our team to make that happen.

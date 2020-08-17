@@ -65,3 +65,4 @@ Forecast has gone over quite a few iterations and with each one we've learnt mor
 * [Travel policy](travel-policy.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
+* [Danish holiday FAQs](holiday-faq.md)
