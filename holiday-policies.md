@@ -1,4 +1,6 @@
-# Danish Holiday FAQs
+# Holiday policies
+
+## Questions specific to Denmark
 ## What happened from 1st May 2020?
 -   On May 1st 2020 you received the vacation days that you’d earned from Jan 1st 2019 to August 31st 2019. A max of 16,64 days depending on the number of months you worked with Forecast during the above period. These can be used from May 1st 2020 to August 31st 2020
 -   If you don’t use the vacation days between May 1st 2020 and August 31st 2020 they will automatically be transferred to the new vacation law. This means you can use these days until Dec 31st 2021
