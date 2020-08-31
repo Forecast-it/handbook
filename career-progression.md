@@ -52,7 +52,7 @@ You'll meet with your manager for a 1:1 session on their regular cadence (typica
 
 This is a two-way street! You should be offering your thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in these areas.
 
-## Other sections
+## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Rules of engagement](rules-of-engagement.md)
