@@ -14,13 +14,6 @@ As the vast majority of work becomes project-based, speed is essential. The dema
 
 This means that projects determine the hiring patterns, rather than the other way around. Data is the key to winning.
 
-
-### Forecast is forging superhuman project organizations...
-
-* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets
-* **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system
-* **automating all administrative work**, ensuring happy people that deliver value with every task
-
 ### Augmenting people with AI
 
 Leveraging an entire company’s project history for decision making is too complex and tedious for people alone. The solution is not more reporting. 
