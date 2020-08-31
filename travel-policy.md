@@ -1,4 +1,4 @@
-# Business Travel Policy
+# Business travel policy
 ## Policy brief & purpose
 Our company travel policy outlines our provisions for company-related travel. We’ll explain which expenses we’ll reimburse and how. We’ll also give instructions to our employees to track their expenses correctly when traveling.
 ## Scope
