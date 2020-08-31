@@ -18,7 +18,9 @@ If we hire your referral and they complete their probationary period successfull
 
 ## Who can participate in our employee referral program?
 
-All Forecasters including full time and part time are eligible to refer talent into Forecast. The exceptions to this are:
+All Forecasters including full time and part time are eligible to refer talent into Forecast. 
+
+The exceptions to this are:
 * Hiring managers referring for their own open positions
 * Members of the leadership team
 * Recruiters
