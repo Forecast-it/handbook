@@ -33,9 +33,10 @@ Medical care fees due to travel-related accidents may be covered by workers’ c
 When traveling for company purposes, you’re entitled to company-paid plane tickets in **economy class**. <br /> 
 Executives can travel in premium economy on trips longer than 5 hours. <br /> 
 We’ll reimburse two-way tickets, meals (as included in the ticket price) one carry on luggage, and one luggage for stays more than 5 days. You should cover additional expenses, like extra luggage or purchase of duty-free items, on your own. <br />
-Your travel must be booked at least two weeks in advance unless it’s an unforeseen trip. All bookings should be made through TravelPerk and your manager must provide written approval prior to booking. You will be responsible for booking the appropriate transportation at convenient times depending on the purpose of your trip. If you are travelling as a group of more than one Forecaster, bookings should aim at being aligned to achieve any discounts on bundles and optimizations.
+Your travel must be booked at least two weeks in advance unless it’s an unforeseen trip. All bookings should be made through TravelPerk and *your manager must provide written approval prior to booking*. You will be responsible for booking the appropriate transportation at convenient times depending on the purpose of your trip. <br /> 
+If you are travelling as a group of more than one Forecaster, bookings should aim at being aligned to achieve any discounts on bundles and optimizations.
 
-* **Train / boat, bus** <br />
+* **Train / boat / bus** <br />
 Should you need to travel by another means of transportation (train, boat or coach), you’re entitled to a standard seat.
 
 * **Rental Cars**
