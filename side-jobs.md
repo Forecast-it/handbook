@@ -41,7 +41,7 @@ In general we’d like to be lenient within reason, but we’re going to be stri
 
 Please ask if in doubt :smile:
 
-## Other sections
+## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Rules of engagement](rules-of-engagement.md)
@@ -49,7 +49,8 @@ Please ask if in doubt :smile:
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* [Referral program](referral-program.md)
 * [Travel policy](travel-policy.md)
+* [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
 * [Product history](product-history.md)
-* [Danish holiday FAQs](holiday-faq.md)
