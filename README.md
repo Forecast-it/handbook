@@ -6,7 +6,7 @@ Forecast is a company that thrives on innovation, collaboration and customer hap
 
 This is where we share what’s worth knowing about Forecast the company, our culture, our process, expectations, and our history. It’s a guide to understanding what people are talking about when they say “check Mission Control”, what Friday Fun is, why we use so many movie quotes, and hopefully everything in-between.
 
-Ohh, and if you're looking for information on fringe benefits or how to set up your workstation or where to find source code, this book isn’t it.
+Ohh, and if you're looking for information on how to set up your workstation or where to find source code, this book isn’t it.
 
 Making the best company helps us make the best product which is a guiding principle. As with everything here please do help keep these pages up to date! And by up to date, we're not just talking about misspellings and team changes. As each of us are part of this everchanging entity, this handbook should reflect real-world descriptions of how we work and operate.
 
@@ -42,13 +42,13 @@ Dennis Kayser – CEO
 ## About Forecast
 At Forecast, we believe that work should be fun and enjoyable, and that software should support that work process. Our goal is to make a platform that is smarter, more connected and user-friendly. So, we only hire visionary people on our team to make that happen.
 
-We were founded in 2016 and are scaling fast. Forecast is currently used in 40+ countries worldwide, with the majority of customers in the US and Canada. We see that there’s a niche in the market for combining task, project and resource management with machine learning technologies to advance people’s work process. That’s why we built the Forecast Business Management platform.
+We were founded in late 2016 and are scaling fast. Forecast is currently used in 40+ countries worldwide, with the majority of customers in the UK, US and Canada. We see that there’s a large gap in the market for combining task, project, finance and resource management with Artificial Intelligence (AI) and Machine Learning (ML) technologies to advance people’s work processes. That’s why we built the Forecast Professional Services Automation platform - Forecast PSA for short.
 
-We combine a collaborative team environment with a passion for innovation, cutting-edge tech, Artificial Intelligence (AI), Machine Learning (ML), great design and excellent customer service. It’s the kind of atmosphere where taking ownership and initiative is encouraged- and there are no limits to what you can accomplish.
+We combine a collaborative team environment with a passion for innovation, cutting-edge tech, AI, ML, Data Science, mind boggling design and excellent, excellent customer service. It’s the kind of working atmosphere where taking ownership and initiative is encouraged- and there are no limits to what you can accomplish.
 
 ## Purpose of this handbook
 As a Forecaster (employee of Forecast) you will have received an individual Employment Agreement which outlines the general terms and conditions of employment.
 
 The information contained in this Handbook applies to all our employees. Following the policies described in this handbook is considered a condition of continued employment. However, nothing in this handbook alters an employee’s status. The contents of this handbook shall not constitute nor be construed as a promise of employment or as a contract between Forecast Technologies as a company and any of its employees. 
 
-The handbook is a summary of our policies, which are presented here only as a matter of information. You are responsible for reading, understanding, and complying with the provisions of this handbook. Our objective is to provide you with a positive and safe work environment that is free from discrimination and harassment.
+The handbook is a summary of our policies, which are presented here only as a matter of information. You are responsible for reading, understanding, and complying with the provisions of this handbook. **Our objective is to provide you with a positive and safe work environment that is free from discrimination and harassment.**
