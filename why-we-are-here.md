@@ -17,9 +17,9 @@ Build the worlds best PSA platform that augments people to become superhuman ver
 
 **Forging superhuman project organizations...**
 
-* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets
-* **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system
-* **automating all administrative work**, ensuring happy people that deliver value with every task
+* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets.
+* **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system.
+* **automating all administrative work**, ensuring happy people that deliver value with every task.
 
 We foresee the transition from manual data collection to automated learning from data. We invite you to join the journey in being part of that evolution. From our customers daily operations to their clients, their businesses are evolving. We enable their people to be on top of their work, have operations aligned, and their business streamlined.
 
