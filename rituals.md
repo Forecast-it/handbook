@@ -52,15 +52,16 @@ Once every 2-3 months we try to do an out-of-office team event for all Forecaste
 
 Friday Fun is a more low-key concept where Forecast donates a fixed amount to one or more people that pool together and feel like hosting an event on Friday afternoon. This can been everything from drinking a simple beer to board-games, console gaming tournaments or quizzes (often involving the theme Hawaii).
 
-## Other sections
+## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Rules of engagement](rules-of-engagement.md)
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Career progression](career-progression.md)
+* [Referral program](referral-program.md)
 * [Travel policy](travel-policy.md)
+* [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Danish holiday FAQs](holiday-faq.md)
