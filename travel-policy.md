@@ -24,16 +24,24 @@ Once you have the approval you can book your travel using TravelPerk. You are re
   
 3. **Payment** <br />
 The company card is added to TravelPerk for payments
-### Legal/ medical expenses
+### Legal / medical expenses
 If you need to travel to countries that need a visa or other documentation to enter, we’ll cover all relevant expenses (excluding expenses for issuing passports). The same applies to medical expenses, like medical insurance for travelers, vaccinations or examinations. We’ll pay all these costs directly, you won’t need to do anything.
 Medical care fees due to travel-related accidents may be covered by workers’ compensation insurance. If not, we may partially or fully reimburse you for your medical expenses.
 ### Transportation expenses
-Flights
-Economy Class: When traveling for company purposes, you’re entitled to company-paid plane tickets in economy class. Executives can travel in premium economy on trips longer than 5 hours. Should you need to travel by another means of transportation (train, boat or coach), you’re entitled to a standard seat. We’ll reimburse two-way tickets, meals (as included in the ticket price) one carry on luggage, and one luggage for stays more than 5 days in case of a plane trip. You should cover additional expenses, like extra luggage or purchase of duty-free items, on your own.
-Book 14 days in advance: Your travel must be booked at least two weeks in advance unless it’s an unforeseen trip. All bookings should be made through TravelPerk and your manager must provide written approval prior to booking. You will be responsible for booking the appropriate transportation at convenient times depending on the purpose of your trip. If you are travelling as a group of more than one employee, bookings should aim at being aligned to achieve any discounts on bundles and optimizations.
-Rental Cars
-Compact Car: If your travel includes the need to rent a car. In these cases, booking should be made through our TravelPerk account (you must buy insurance too). Keep in mind, we'll only reimburse fees for a rental car that's compact.
-Personal Vehicle
+* **Flights** <br />
+*Please book 14 days in advance* <br />
+When traveling for company purposes, you’re entitled to company-paid plane tickets in **economy class**. <br /> 
+Executives can travel in premium economy on trips longer than 5 hours. <br /> 
+We’ll reimburse two-way tickets, meals (as included in the ticket price) one carry on luggage, and one luggage for stays more than 5 days. You should cover additional expenses, like extra luggage or purchase of duty-free items, on your own. <br />
+Your travel must be booked at least two weeks in advance unless it’s an unforeseen trip. All bookings should be made through TravelPerk and your manager must provide written approval prior to booking. You will be responsible for booking the appropriate transportation at convenient times depending on the purpose of your trip. If you are travelling as a group of more than one employee, bookings should aim at being aligned to achieve any discounts on bundles and optimizations.
+
+* **Train / boat, bus** <br />
+Should you need to travel by another means of transportation (train, boat or coach), you’re entitled to a standard seat.
+
+* **Rental Cars**
+If your travel includes the need to rent a car. In these cases, booking should be made through our TravelPerk account (you must buy insurance too). Keep in mind, we'll only reimburse fees for a rental car that's a **compact class**.
+
+* **Personal Vehicle**
 If you plan to travel by personal car, we’ll reimburse the applicable tax free mileage allowance. Please make sure your insurance covers business travels ([UK](https://www.gov.uk/government/publications/rates-and-allowances-travel-mileage-and-fuel-allowances/travel-mileage-and-fuel-rates-and-allowances) and [DK](https://skat.dk/skat.aspx?oid=2296130) rules)
   
 #### Local transportation
