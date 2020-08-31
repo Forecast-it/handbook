@@ -71,7 +71,7 @@ Vacation and holiday entitlement has been detailed in your Employment Agreement.
 
 Vacation is accrued according to the rules of the country you're employed. Please inform your manager at the earliest if you inted to take vacation so he/she can plan for how to cover in the period. 
 
-Vacation requests will generally be allocated on a first come, first served basis, and Forecast Technologies reserves the right to ensure that allocation at busy times is fair in all the circumstances and that there is sufficient coverage to enable it to operate effectively, which may mean that the request for a vacation is refused. 
+Vacation requests will generally be allocated on a first come, first served basis, and Forecast Technologies reserves the right to ensure that allocation at busy times is fair in all the circumstances and that there is sufficient coverage to enable it to operate effectively, which may mean that the request for a vacation is refused. Please see more details on this page - [Holiday policies](holiday-faq.md)
 
 ## Pitching new ideas
 
@@ -108,8 +108,9 @@ Actually, if you never make a mistake you're probably not pushing yourself enoug
 * [What influenced us](what-influenced-us.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* [Referral program](referral-program.md)
 * [Travel policy](travel-policy.md)
+* [Holiday policies](holiday-faq.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Danish holiday FAQs](holiday-faq.md)
