@@ -40,7 +40,7 @@ TO DO
 ![](https://lh5.googleusercontent.com/Lc3YcFMMQY3Hndo96sfb_rXIwk1kr79XXzapEldOek4nlRADa9afVebhDLHZN5Y-qzQLx2YGgtgcoYgHjAXP8vxpEWazkau23T056dXlSmbl9CB2wobQXlA3ncCMaOHY4bFcV4mq)
 For additional information go to: [https://www.borger.dk/kampagnesider/ny-ferielov](https://www.borger.dk/kampagnesider/ny-ferielov)
 
-### Other sections
+### Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Rules of engagement](rules-of-engagement.md)
