@@ -8,7 +8,7 @@ Mistakes are repeated and current tools don’t help humans make better decision
 
 Companies must rely on technology to help retain gained knowledge and use it to improve business performance. :computer:
 
-**A massive project management shortage is already here...**
+**A massive project management talent shortage is already here...**
 
 As the vast majority of work becomes project-based, speed is essential. The demand for project-based professionals is fast fueling a worldwide talent gap. By 2027, employers will need to fill nearly 90 million project management related roles.
 
