@@ -40,13 +40,16 @@ If you are travelling as a group of more than one Forecaster, bookings should ai
 Should you need to travel by another means of transportation (train, boat or coach), you’re entitled to a standard seat.
 
 * **Rental Cars**
-If your travel includes the need to rent a car. In these cases, booking should be made through our TravelPerk account (you must buy insurance too). Keep in mind, we'll only reimburse fees for a rental car that's a **compact class**.
+If your travel includes the need to rent a car. In these cases, booking should be made through our TravelPerk account (you must buy insurance too). <br />
+Keep in mind, we'll only reimburse fees for a rental car that's a **compact class**.
 
 * **Personal Vehicle**
 If you plan to travel by personal car, we’ll reimburse the applicable tax free mileage allowance. Please make sure your insurance covers business travels ([UK](https://www.gov.uk/government/publications/rates-and-allowances-travel-mileage-and-fuel-allowances/travel-mileage-and-fuel-rates-and-allowances) and [DK](https://skat.dk/skat.aspx?oid=2296130) rules)
   
 #### Local transportation
-When arrived at your destination, we encourage you to take public transportation where available, convenient and safe. If you use public transport, buy a ticket (either one-way or multiple-days if applicable) and submit the receipt to our expenses software. You can take taxis to move around the area for business purposes, and when it makes sense from a group cost perspective. Always ask for receipts and we’ll reimburse fares for traveling:
+When arrived at your destination, we encourage you to take public transportation where available, convenient and safe. If you use public transport, buy a ticket (either one-way or multiple-days if applicable) and submit the receipt to our expenses software. You can take taxis to move around the area for business purposes, and when it makes sense from a group cost perspective. <br /><br /> 
+
+Always ask for receipts and we’ll reimburse fares for traveling:
 -   From airport / stations to your hotel and back.
     
 -   To and from every place you go for company purposes (like conference halls, lunches with clients or client offices).
