@@ -76,3 +76,17 @@ Other expenses included are airport and hotel parking fees.
 ## What you need to do
 We ask you to use your best judgment when traveling for company purposes and to follow the guidelines. Don’t go overboard with spending and always ask for receipts and keep them organized.
 When you’re back from your trip, submit all expenses through expensify or by sending them to the accounting team at accounting@forecast.app within two months. This includes documentation of the trip to claim your per diem, please include if any meals were provided. If you had a reason not to submit expenses within that period, talk to your manager. They’ll be the ones to approve your expenses for reimbursement. You’ll receive the money within a few weeks after your manager approves.
+
+## Sections
+* [You, as a Forecaster](you-as-a-forecaster.md)
+* [Why we're here](why-we-are-here.md)
+* [Rules of engagement](rules-of-engagement.md)
+* [What influenced us](what-influenced-us.md)
+* [How we work](how-we-work.md)
+* [Rituals](rituals.md)
+* [Career progression](career-progression.md)
+* [Referral program](referral-program.md)
+* [Holiday policies](holiday-policies.md)
+* [Security & data protection](security-data-protection.md)
+* [Side jobs](side-jobs.md)
+* [Product history](product-history.md)
