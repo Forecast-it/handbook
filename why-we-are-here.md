@@ -21,11 +21,11 @@ Build the worlds best PSA platform that augments people to become superhuman ver
 * **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system
 * **automating all administrative work**, ensuring happy people that deliver value with every task
 
-We foresee the transition from manual data collection to automated learning from data. We invite you to join the journey in being part of that evolution. From your daily operations to your clients, your business is evolving. Have your people on top of their work, your operations aligned, and business streamlined.
+We foresee the transition from manual data collection to automated learning from data. We invite you to join the journey in being part of that evolution. From our customers daily operations to their clients, their businesses are evolving. We enable their people to be on top of their work, have operations aligned, and their business streamlined.
 
 At Forecast, we want to be the best at what we do by building a world-class product and service. We ask for, act, and reflect on candid feedback to continuously learn from our customers. From our own agility, we always know there’s room to improve.
 
-Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) core to run any project-driven organization! :rocket:
+Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) platform to run any project-driven organization! :rocket:
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
