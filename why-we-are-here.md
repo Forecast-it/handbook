@@ -11,10 +11,15 @@ At Forecast, we believe your every day should be filled with less ad-hoc and adm
 Increase agility with a platform that embraces a radically new approach of continuous improvement and learning by leveraging Artificial Intelligence (AI). Instead of spending time collecting data, we think you should be spending time acting from data. That will enable you to move from the old world projects first to a new world of clients first, which in turn will help you deliver better results.
 
 ## Mission
-Build the best product that empowers people to build strong client relations
+Build the worlds best PSA platform that augments people to become superhuman versions of themselves everyday.
 
 ## Vision
-Forecast drives business performance by empowering people to improve the way they work.
+
+**Forging superhuman project organizations...**
+
+* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets
+* **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system
+* **automating all administrative work**, ensuring happy people that deliver value with every task
 
 We foresee the transition from manual data collection to automated learning from data. We invite you to join the journey in being part of that evolution. From your daily operations to your clients, your business is evolving. Have your people on top of their work, your operations aligned, and business streamlined.
 
