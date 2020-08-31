@@ -1,12 +1,19 @@
 # What influenced us to create Forecast
 
 ## $1 million USD is wasted every 20 seconds due to poor project management
-[66% of projects fail](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value)
- and we don’t seem to learn from those failures... <br />
+**[66% of projects fail](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value)
+ and we don’t seem to learn from those failures...**
 
-Mistakes are repeated and current tools don’t help humans make better decisions. Data amounts are increasing exponentially, spreading across disparate systems, making consistency difficult. Data is already there, but lying dormant. <br / >
+Mistakes are repeated and current tools don’t help humans make better decisions. Data amounts are increasing exponentially, spreading across disparate systems, making consistency difficult. Data is already there, but lying dormant.
 
 Companies must rely on technology to help retain gained knowledge and use it to improve business performance. :computer:
+
+**A massive project management shortage is already here...**
+
+As the vast majority of work becomes project-based, speed is essential. The demand for project-based professionals is fast fueling a worldwide talent gap. By 2027, employers will need to fill nearly 90 million project management related roles.
+
+This means that projects determine the hiring patterns, rather than the other way around. Data is the key to winning.
+
 
 
 ### Forging superhuman project organizations...
