@@ -22,15 +22,16 @@ At Forecast, we want to be the best at what we do by building a world-class prod
 
 Forecast is the ultimate [Professional Service Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) core to run any project-driven organization! :rocket:
 
-## Other sections
+## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Rules of engagement](rules-of-engagement.md)
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* [Referral program](referral-program.md)
 * [Travel policy](travel-policy.md)
+* [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
-* [Danish holiday FAQs](holiday-faq.md)
