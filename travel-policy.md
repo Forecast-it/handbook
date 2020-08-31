@@ -46,7 +46,7 @@ If your travel includes the need to rent a car. In these cases, booking should b
 If you plan to travel by personal car, we’ll reimburse the applicable tax free mileage allowance. Please make sure your insurance covers business travels ([UK](https://www.gov.uk/government/publications/rates-and-allowances-travel-mileage-and-fuel-allowances/travel-mileage-and-fuel-rates-and-allowances) and [DK](https://skat.dk/skat.aspx?oid=2296130) rules)
   
 #### Local transportation
-Public Transport: When arrived at your destination, we encourage you to take public transportation where available, convenient and safe. If you use public transport, buy a ticket (either one-way or multiple-days if applicable) and submit the receipt to our expenses software. You can take taxis to move around the area for business purposes. Always ask for receipts and we’ll reimburse fares for traveling:
+When arrived at your destination, we encourage you to take public transportation where available, convenient and safe. If you use public transport, buy a ticket (either one-way or multiple-days if applicable) and submit the receipt to our expenses software. You can take taxis to move around the area for business purposes, and when it makes sense from a group cost perspective. Always ask for receipts and we’ll reimburse fares for traveling:
 -   From airport / stations to your hotel and back.
     
 -   To and from every place you go for company purposes (like conference halls, lunches with clients or client offices).
@@ -55,15 +55,19 @@ Public Transport: When arrived at your destination, we encourage you to take pub
     
 We won’t reimburse transportation expenses without receipts or for trips to museums or other places for personal purposes.
 ### Accommodation
-When traveling for company purposes, Forecast will provide recommended hotels for you to stay in London and Copenhagen. If no rooms are available at recommended hotels you’re entitled to stay at an equivalent hotel in the area. You should book your room through our TravelPerk or direct link if available. If you plan to stay longer for personal reasons, you’ll need to pay for the additional stay yourself.
-Wakeup Copenhagen: Recommended hotel in CPH with company discount. Use the following link for reservations [https://www.wakeupcopenhagen.dk/?corpLogin=1#/](https://www.wakeupcopenhagen.dk/?corpLogin=1#/)
-We won’t reimburse any extra room-related charges incurred. We may make an exception if you need to upgrade your room for reasons outside of your control (for example, a malfunction that makes your room unsuitable and there’s no room of equal cost available). In this case, you should contact our Director of Finance or Chief of Staff immediately so that they find the best solution and arrange the payment.
+When traveling for company purposes, Forecast will provide recommended hotels for you to stay in London and Copenhagen. If no rooms are available at recommended hotels you’re entitled to stay at an equivalent hotel in the area. You should book your room through our TravelPerk or direct link if available. If you plan to stay longer for personal reasons, you’ll need to pay for the additional stay yourself.< br />
+We won’t reimburse any extra room-related charges incurred. We may make an exception if you need to upgrade your room for reasons outside of your control (for example, a malfunction that makes your room unsuitable and there’s no room of equal cost available). In this case, you should contact our Director of Finance or Chief of Staff immediately so that they find the best solution and arrange the payment.<br />
 If you want to stay at a more expensive lodging for a particular reason (like to be closer to family who lives close by), you’ll need to pay the difference yourself.
+* **Copenhagen** <br />
+Wakeup Copenhagen is the recommended hotel in CPH (we get a corporate discount). Use the following link for reservations [https://www.wakeupcopenhagen.dk/?corpLogin=1#/](https://www.wakeupcopenhagen.dk/?corpLogin=1#/)
+* **London** <br />
+Euston Square Hotel is the recommended hotel in LON (we get a corporate discount). Use the following link for reservations [https://euston-square-hotel.com/](https://euston-square-hotel.com/)
+
 ### Traveling with a non-employee
 Our policy allows you to share a company-booked room with a partner, friend or family member who wants to travel with you, as long as this doesn’t incur extra charges for our company. For example, if we’ve already booked a room for you that has enough space, you can host your partner, friend or family member. Keep in mind that you’ll be financially responsible for any expenses or damages this person incurs.
 We won’t reimburse any expenses for your co-traveler for the entirety of the trip. The only exception is taxi fares which don’t depend on the number of people on the ride.
 ### Expenses while on a trip
-For business trips exceeding 24-hours, you’re entitled to per diems to cover the cost of meals (breakfast, lunch and dinner) as well as petty acquisitions (coffee, metro/bus ticket). The per diem rate is $80. In case lunch and/or dinner is provided the per diem is reduced by 30% per meal, if breakfast is provided the per diem is reduced by 15%. To claim your per diem you must send a mail to accounting@forecast.app.
+For business trips exceeding 24-hours, you’re entitled to per diems to cover the cost of meals (breakfast, lunch and dinner) as well as petty acquisitions (coffee, metro/bus ticket). The per diem rate is $80. In case lunch and/or dinner is provided the per diem is reduced by 30% per meal, if breakfast is provided the per diem is reduced by 15%. To claim your per diem you must send an email to accounting@forecast.app. <br />
 When it comes to meetings with clients (like dinners) or team outings, these must be approved by the team manager and cost must be covered by the team budget.
 Other expenses included are airport and hotel parking fees.
 ## What you need to do
