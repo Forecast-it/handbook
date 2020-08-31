@@ -15,16 +15,26 @@ As the vast majority of work becomes project-based, speed is essential. The dema
 This means that projects determine the hiring patterns, rather than the other way around. Data is the key to winning.
 
 
-
-### Forging superhuman project organizations...
+### Forecast is forging superhuman project organizations...
 
 * **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets
 * **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system
 * **automating all administrative work**, ensuring happy people that deliver value with every task
 
+### Augmenting people with AI
+
+Leveraging an entire company’s project history for decision making is too complex and tedious for people alone. The solution is not more reporting. 
+
+AI augmentation is the only way to solve it.
+
+Our AI uses the customer’s entire dataset across all business systems to help optimize, staff and deliver projects.
+
+Forecast augments people to make superhuman decisions, that drive successful business.
+
+
 ## Dirty experiences gave us all dirty hands
 
-Coming from a Computer Science background with a few years of different industry experiences, epecially within professional services and consulting, all 4 founders had experienced first-hand how projects fail because of poor planning and lack of tools to help keep projects on track (even huge, expensive projects with many hundreds of people working on them). That's when we decided to quit our day jobs and solve this problem once and for all.
+Hailing from a Computer Science background with years of different industry experiences, epecially within professional services and consulting, all 4 founders had experienced first-hand how projects fail due to poor planning and lack of tools to help keep projects on track (even huge, expensive projects with many hundreds of people working on them). That's when we decided to quit our day jobs and solve this problem once and for all.
 
 Our goal was and still is to this day, to make it possible and even easy, simple and delightful to plan and run everything from small and simple to large and complex projects, in a way that is accurate, predictable, and profitable.
 
