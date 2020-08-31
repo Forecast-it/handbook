@@ -42,7 +42,7 @@ Dennis Kayser – CEO
 ## About Forecast
 At Forecast, we believe that work should be fun and enjoyable, and that software should support that work process. Our goal is to make a platform that is smarter, more connected and user-friendly. So, we only hire visionary people on our team to make that happen.
 
-We were founded in late 2016 and are scaling fast. Forecast is currently used in 40+ countries worldwide, with the majority of customers in the UK, US and Canada. We see that there’s a large gap in the market for combining task, project, finance and resource management with Artificial Intelligence (AI) and Machine Learning (ML) technologies to advance people’s work processes. That’s why we built the Forecast Professional Services Automation platform - Forecast PSA for short.
+We were founded in late 2016 and are scaling fast. Forecast is currently used in 40+ countries worldwide, with the majority of customers in the United Kingdom, United States and Canada. We see that there’s a large gap in the market for combining task, project, finance and resource management with Artificial Intelligence (AI) and Machine Learning (ML) technologies to advance people’s work processes. That’s why we built the Forecast Professional Services Automation platform - Forecast PSA for short. We're here to build something that the world has never seen before, and we're quite far already!
 
 We combine a collaborative team environment with a passion for innovation, cutting-edge tech, AI, ML, Data Science, mind boggling design and excellent, excellent customer service. It’s the kind of working atmosphere where taking ownership and initiative is encouraged- and there are no limits to what you can accomplish.
 
