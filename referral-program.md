@@ -3,18 +3,18 @@ At Forecast it's super duper important to get and retain the best talent. As we 
 
 That's why we have an employee referral program, and this program policy applies to every Forecaster who refers a candidate to our company. We want to make this process as smooth as possible for our employees and those who they refer.
 
-## What is an employee referral award?
+## What is an employee referral bonus?
 
-An employee referral award is a financial bonus that Forecast will pay to an employee for successfully referring a new full time employee into the company. A successful referral is an employee who has completed and passed their probationary period.
+An employee referral bonus is a financial award that Forecast will pay to an employee for successfully referring a new full time employee into the company. A successful referral is an employee who has completed and passed their probationary period.
 
 If we hire your referral and they complete their probationary period successfully, the payment would be:
 
-| Location of referrer (existing employee) | Referral award |
+| Location of referrer (existing employee) | Referral bonus |
 | --- | --- |
 | Denmark | 6,200 DKK |
 | United Kingdom | 750 GBP |
 
-*Note that the referral award will be subject to local tax 
+*Note that the referral bonus will be subject to local tax 
 
 ## Who can participate in our employee referral program?
 
