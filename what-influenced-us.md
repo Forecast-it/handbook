@@ -1,12 +1,19 @@
 # What influenced us to create Forecast
 
-### Using AI to help solve problems th 
+## $1 million USD is wasted every 20 seconds due to poor project management
+[66% of projects fail](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value)
+ and we don’t seem to learn from those failures... <br />
 
-[66% of projects are failing](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value) and we don’t seem to learn from our mistakes…
+Mistakes are repeated and current tools don’t help humans make better decisions. Data amounts are increasing exponentially, spreading across disparate systems, making consistency difficult. Data is already there, but lying dormant. <br / >
 
-The reason being that people tend to do the same mistakes because their current tools are not helping them make better decisions.
+Companies must rely on technology to help retain gained knowledge and use it to improve business performance. :computer:
 
-Taking advantage of the entire company’s data history and using it for predictions is too complex for humans to grasp, so AI and ML is the only way to solve it. :computer:
+
+### Forging superhuman project organizations...
+
+* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets
+* **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system
+* **automating all administrative work**, ensuring happy people that deliver value with every task
 
 ## Dirty experiences gave us all dirty hands
 
