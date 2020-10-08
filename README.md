@@ -22,7 +22,8 @@ Sincerely
 
 <img src="/dennis-signature.png" width="200px">
 
-Dennis Kayser – CEO
+Dennis Kayser
+CEO
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
