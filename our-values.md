@@ -3,7 +3,7 @@
 All Forecasters are hired based on living up to our 3 cores values:
 
 ## 1. Passionate and proud 
-| All of humanity’s most significant endeavours are delivered as projects and we are obsessed about making them and our customers successful. We are proud of our personal contribution to changing the world; one project at a time.
+All of humanity’s most significant endeavours are delivered as projects and we are obsessed about making them and our customers successful. We are proud of our personal contribution to changing the world; one project at a time.
 
 It's this dedication that drives us to build the world’s best product that forges superhuman project organizations by augmenting people to make better-than-human decisions.
 
