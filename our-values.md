@@ -18,7 +18,7 @@ We are ambitious, energetic and driven. Enthusiastic individuals that seize the 
 It’s this raw energy, power and accelerant we use to continuously improve and drive Forecast forward at lightning speed.
 
 
----
+
 Non opus Diligentia, Vis, Celeritas - We work with precision, power, speed. :shipit:
 
 ## Sections
