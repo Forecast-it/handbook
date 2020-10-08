@@ -36,7 +36,7 @@ We are achieving our goal through a fresh approach where we apply AI and Machine
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
-* [Rules of engagement](rules-of-engagement.md)
+* [Our values](our-values.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
