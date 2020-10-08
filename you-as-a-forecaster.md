@@ -46,7 +46,7 @@ As needed, you'll be provided with a work laptop, mouse, keyboard, monitor(s), p
 
 ## Sections
 * [Why we're here](why-we-are-here.md)
-* [Rules of engagement](rules-of-engagement.md)
+* [Our values](our-values.md)
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
