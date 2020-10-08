@@ -44,7 +44,7 @@ Please ask if in doubt :smile:
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
-* [Rules of engagement](rules-of-engagement.md)
+* [Our values](our-values.md)
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
