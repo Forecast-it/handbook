@@ -22,7 +22,7 @@ Sincerely
 
 <img src="/dennis-signature.png" width="200px">
 
-Dennis Kayser
+Dennis Kayser <br />
 CEO
 
 ## Sections
