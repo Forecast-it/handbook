@@ -11,13 +11,13 @@ At Forecast, we believe your every day should be filled with less ad-hoc and adm
 Increase agility with a platform that embraces a radically new approach of continuous improvement and learning by leveraging Artificial Intelligence (AI). Instead of spending time collecting data, we think you should be spending time acting from data. That will enable you to move from the old world projects first to a new world of clients first, which in turn will help you deliver better results.
 
 ## Mission
-Build the worlds best PSA platform that augments people to become superhuman versions of themselves everyday.
+All of humanity’s most significant endeavours are delivered as projects and we are obsessed about making them and our customers successful. Forecast forges superhuman project organizations by augmenting people to make better-than-human decisions, via Artificial Intelligence. We are proud of our personal contribution to changing the world; one project at a time.
 
 ## Vision
 
 **Forging superhuman project organizations...**
 
-* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages impossibly large datasets.
+* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages complex corporate datasets.
 * **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system.
 * **automating all administrative work**, ensuring happy people that deliver value with every task.
 
@@ -29,7 +29,7 @@ Forecast is the ultimate [Professional Services Automation (PSA)](https://en.wik
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
-* [Rules of engagement](rules-of-engagement.md)
+* [Our values](our-values.md)
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
