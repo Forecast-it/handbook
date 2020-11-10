@@ -2,20 +2,14 @@
 
 All Forecasters are hired based on living up to our 3 cores values:
 
-## 1. Passionate and proud 
-All of humanity’s most significant endeavours are delivered as projects and we are obsessed about making them and our customers successful. We are proud of our personal contribution to changing the world; one project at a time.
+## 1. Direct and honest
+We speak up and listen, driven by our Danish roots. We share our opinions directly and honestly with each other, and welcome healthy disagreement. We weigh an argument by the quality of the idea not stars on your shoulder. When a decision is made, we stand behind and commit to it, even if we argued for an alternative.
 
-It's this dedication that drives us to build the world’s best product that forges superhuman project organizations by augmenting people to make better-than-human decisions.
-
-## 2. Direct and honest
-We share our opinions directly and honestly across the organisation, and welcome healthy conflict. The weight of your argument comes by the quality of your ideas not the stars on your shoulders. After a decision, we stand behind and commit to it, even if we argued for an alternative.
-
-It’s this candor that propels sound decisions for solving customer problems on a global scale, leaving politics sulking at the door.
+## 2. Passionate and proud 
+We are a unique and diverse team, all united in our passion to help everyone do the very best work of their lives - by letting technology do what it does best, so people can do what they do best. We value simplicity and are proud of our personal contribution and dedication to changing the world; one project at a time.
 
 ## 3. Oomph
-We are ambitious, energetic and driven. Enthusiastic individuals that seize the initiative and have fun, in a collaborative and diverse setting. We like noodles but don’t hire them.
-
-It’s this raw energy, power and accelerant we use to continuously improve and drive Forecast forward at lightning speed.
+We are a kick-ass and caring bunch of people with a can-do attitude, driving us to solve problems. We push ourselves to constantly learn and evolve, knowing that the pursuit to be the best is an ongoing journey. We love having fun while building the most advanced technology in our industry.
 
 
 
