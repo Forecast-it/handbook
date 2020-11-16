@@ -1,31 +1,27 @@
 # Why we're here
 
-## Philosophy
-
-Imagine a world where everyone has full knowledge and makes the optimal business decisions, every minute of every day. A world where everyone knows what to work on and there’s full insight into every project with just one click.  
-
-Imagine what freedom it would bring to operations if there is always optimal use of people, work, and time.
-
-At Forecast, we believe your every day should be filled with less ad-hoc and administrative work. That freedom creates more room to focus on evolving, improving and empowering your people to think innovatively. Whether it is designing, structuring, acting or simply steering the company in the right direction, Forecast has your back.
-
-Increase agility with a platform that embraces a radically new approach of continuous improvement and learning by leveraging Artificial Intelligence (AI). Instead of spending time collecting data, we think you should be spending time acting from data. That will enable you to move from the old world projects first to a new world of clients first, which in turn will help you deliver better results.
-
-## Mission
-All of humanity’s most significant endeavours are delivered as projects and we are obsessed about making them and our customers successful. Forecast forges superhuman project organizations by augmenting people to make better-than-human decisions, via Artificial Intelligence. We are proud of our personal contribution to changing the world; one project at a time.
-
 ## Vision
 
-**Forging superhuman project organizations...**
+**Impossibly high performing teams...**
 
-* **augmenting people to make better-than-human decisions**, via an Artificial Intelligence (AI) that leverages complex corporate datasets.
-* **providing unprecedented visibility and control**, over every aspect of the organization's operations and finances, across any system.
-* **automating all administrative work**, ensuring happy people that deliver value with every task.
+* **will do the best work of their lives,** with the support of Artificial Intelligence (AI) that leverages complex corporate datasets.
+* **have unprecedented visibility and control,** over every aspect of the organization's operations and finances, across any system.
+* **benefit from the automation of all administrative work,** ensuring a meaningful work experience that delivers value with every activity.
 
-We foresee the transition from manual data collection to automated learning from data. We invite you to join the journey in being part of that evolution. From our customers daily operations to their clients, their businesses are evolving. We enable their people to be on top of their work, have operations aligned, and their business streamlined.
+We foresee the transition from manual data collection to AI-native learning from data, and invite you to join the journey in being part of that evolution.
 
-At Forecast, we want to be the best at what we do by building a world-class product and service. We ask for, act, and reflect on candid feedback to continuously learn from our customers. From our own agility, we always know there’s room to improve.
+## Mission
+Our mission is to unlock the power of AI <br />
+to help people do the best work of their lives.
 
-Forecast is the ultimate [Professional Services Automation (PSA)](https://en.wikipedia.org/wiki/Professional_services_automation) platform to run any project-driven organization! :rocket:
+
+## What we believe
+
+We believe our platform represents the most advanced technology in our industry, but it is the empowerment we bring to people that makes the biggest difference in reducing the time and money lost on projects today.
+
+We believe our modern platform uniquely correlates task and resource management with project financials, enabling optimal company-wide decision making – all in one place.
+
+We believe that our AI-powered, always-learning and always-improving platform guides individuals, teams and companies to a state of best practices – with actionable insights that only powerful computing can deliver.
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
