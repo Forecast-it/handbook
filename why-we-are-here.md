@@ -8,7 +8,7 @@
 * **have unprecedented visibility and control,** over every aspect of the organization's operations and finances, across any system.
 * **benefit from the automation of all administrative work,** ensuring a meaningful work experience that delivers value with every activity.
 
-We foresee the transition from manual data collection to AI-native learning from data, and invite you to join the journey in being part of that evolution.
+We foresee the transition from manual data collection to AI-native learning from data, and invite you to join the journey in being part of that revolution.
 
 ## Mission
 Our mission is to unlock the power of AI <br />
