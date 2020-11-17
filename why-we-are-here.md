@@ -21,7 +21,7 @@ We believe our platform represents the most advanced technology in our industry,
 
 We believe our modern platform uniquely correlates task and resource management with project financials, enabling optimal company-wide decision making – all in one place.
 
-We believe that our AI-powered, always-learning and always-improving platform guides individuals, teams and companies to a state of best practices – with actionable insights that only powerful computing can deliver.
+We believe that our AI-native, always-learning and always-improving platform guides individuals, teams and companies to a state of best practices – with actionable insights that only powerful computing can deliver.
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
