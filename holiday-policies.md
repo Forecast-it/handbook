@@ -40,7 +40,8 @@ TO DO
 ![](https://lh5.googleusercontent.com/Lc3YcFMMQY3Hndo96sfb_rXIwk1kr79XXzapEldOek4nlRADa9afVebhDLHZN5Y-qzQLx2YGgtgcoYgHjAXP8vxpEWazkau23T056dXlSmbl9CB2wobQXlA3ncCMaOHY4bFcV4mq)
 For additional information go to: [https://www.borger.dk/kampagnesider/ny-ferielov](https://www.borger.dk/kampagnesider/ny-ferielov)
 
-### Sections
+## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
@@ -49,7 +50,9 @@ For additional information go to: [https://www.borger.dk/kampagnesider/ny-feriel
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
+* **[Holiday policies](holiday-policies.md) <-- You're here**
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
