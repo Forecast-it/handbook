@@ -24,13 +24,16 @@ We believe our modern platform uniquely correlates task and resource management 
 We believe that our AI-native, always-learning and always-improving platform guides individuals, teams and companies to a state of best practices – with actionable insights that only powerful computing can deliver.
 
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
+* **[Why we're here](why-we-are-here.md) <-- You're here**
 * [Our values](our-values.md)
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
