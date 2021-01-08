@@ -9,7 +9,7 @@ This is where the big presentation of strategy and current performance is done, 
 
 ## Sprints
 
-At Forecast We work in 1-week sprints. These small iterations enable us to change direction at extreme speed. They give us an internal sense of urgency and force us to break things into very small pieces before starting them. Lastly it enables us to split work more evenly between team members and deliver continuously.
+At Forecast We work in 2-week sprints. These small iterations enable us to change direction at extreme speed. They give us an internal sense of urgency and force us to break things into very small pieces before starting them. Lastly it enables us to split work more evenly between team members and deliver continuously.
 
 The idea is not that everything we ever decide to work on can be completed in that time. But rather that we think about how we can break big projects into smaller building blocks that can be assembled into a cohesive whole.
 
@@ -37,20 +37,6 @@ Inviting people to regular meetings is something we try to refrain from. If you'
 
 Except for the events described above invitations to regular meetings is not something we typically do. If you invite people for a meeting, please have a clear goal and think about all the people's time and company money you're wasting for every minute it's not productive. 
 
-## Meetups
-
-We try to participate in relevant meetups, at these we often give a talk, pitch or sponsor. 
-
-Currently we're driving one meetup together with Valtech called [#DPMCOPE - Digital Project Management CPH](https://www.meetup.com/DPMCOPE/). The other main one we participate in is [#AgilityLab Copenhagen](https://www.meetup.com/agilitylab/) where we act as co-organizer, sometimes hosting, sometimes speaking and sometimes just participating as guests.
-
-At all meetups we encourage Forecasters to go learn interesting new things and participate in the community. All Forecasters are also always welcome to pitch ideas for intersting talks about a relevant topic.
-
-## After hours team events & Friday Fun
-
-Once every 2-3 months we try to do an out-of-office team event for all Forecasters that are interested. Anyone is free to suggest things we can do in the #social-activities slack channel and previously it has been ranging from going to dinner to go-carting or escape rooming. Forecast pays for these events, either partly or in whole. So come on, bring your best ideas! :bike: :doughnut: :tropical_drink:
-
-
-Friday Fun is a more low-key concept where Forecast donates a fixed amount to one or more people that pool together and feel like hosting an event on Friday afternoon. This can been everything from drinking a simple beer to board-games, console gaming tournaments or quizzes (often involving the theme Hawaii).
 
 ## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
