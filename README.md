@@ -26,7 +26,7 @@ Dennis Kayser <br />
 CEO
 
 ## Sections
-* [Main page](README.md)
+* **[Handbook front](README.md) <-- You're here**
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
