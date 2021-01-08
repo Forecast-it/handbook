@@ -29,15 +29,9 @@ Commander's intent is taken from and plays a central role in military decision m
 
 Many books have been written about organizational structures. We seek to be efficient and lean in our approach, meaning that we keep a very flat structure. This means a single [Chapter](http://warhammer40k.wikia.com/wiki/Chapter) should be able to go from idea to deploy as independently as possible. This is where we try to emulate a living organism that is fully self-sustaining and capable of making autonomous decisions.
 
->A Chapter is a completely autonomous military unit made up of one thousand of the superhuman warriors known as Space Marines or Astartes and their related vehicles, starships and support personnel. Each Chapter serves collectively with the others of its kind as part of the Imperium of Man's Adeptus Astartes.
--- Warhammer 40k
-
 ### Chaplains
 
 A [Chaplain](http://warhammer40k.wikia.com/wiki/Chaplain) is the single person responsible for driving a Chapter. A Chapter is a small cross-functional self-organized team with less than 10 people. They have end-to-end responsibilities and they work together towards their long-term mission. In chapters the key drive is autonomy.
-
->A Chaplain is a specialist officer of the Adeptus Astartes and serves as the appointed spiritual leader of a Space Marine Chapter.
--- Warhammer 40k
 
 ### Product Chapters
 
@@ -45,7 +39,7 @@ A product Chapter is run by a Chaplain and then consists of people from design +
 
 ## Working from home vs. being in the office
 
-Our working hours are very flexible, but to have great team cohesion we encourage most people to be in the physical Copenhagen office at least 4 days a week. This has two clear benefits; one that questions are easily resolved and two that fewer balls are dropped and thus our velocity can be maintained at a continuously high pace. At Forecast we value the balance of speed, power and precision.
+Our working hours are very flexible, but to have great team cohesion we encourage most people to be in one of the physical offices (Copenhagen or London) at least 3 days a week. This has two clear benefits; one that questions are easily resolved and two that fewer balls are dropped and thus our velocity can be maintained at a continuously high pace. At Forecast we value the balance of speed, power and precision.
 
 ### Before Working From Home (WFH)
 
@@ -54,8 +48,7 @@ Before you WFH please ensure you're following these guidelines:
 * Let your manager know directly at least 24 hours in advance.
 * Be available and responsive via email, chat, and phone from 9:00-17:00
 * A WFH day is not a vacation day.  Be at least as productive from home as you would be in the office.
-* If you have meetings, you need to inform the others in all your meetings that you are joining remotely, and set up the video/phone call yourself.
-* In general, prioritize face-to-face meetings over dial in.  Use common sense, and avoid working from home on days where you have a bunch of meetings scheduled.
+* In general, prioritize face-to-face meetings over dial in.
 
 ### Working hours
 
