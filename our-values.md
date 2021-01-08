@@ -1,6 +1,6 @@
 # Forecast values
 
-All Forecasters are hired based on living up to our 3 cores values:
+All Forecasters are hired based on living up to our 3 cores values. We live and breathe these values, and they're extremely important to how we operate.
 
 ## 1. Direct and honest
 We speak up and listen, driven by our Danish roots. We share our opinions directly and honestly with each other, and welcome healthy disagreement. We weigh an argument by the quality of the idea not stars on your shoulder. When a decision is made, we stand behind and commit to it, even if we argued for an alternative.
@@ -16,13 +16,16 @@ We are a kick-ass and caring bunch of people with a can-do attitude, driving us 
 Non opus Diligentia, Vis, Celeritas - We work with precision, power, speed. :shipit:
 
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
+* **[Our values](our-values.md) <-- You're here**
 * [What influenced us](what-influenced-us.md)
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
