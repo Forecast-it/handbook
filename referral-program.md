@@ -34,7 +34,7 @@ Your referral must not have already applied to Forecast in the six months preced
 ## How do I submit a referral?
 Please direct your referral to our [Careers site](http://jobs.forecast.it/) where they can directly apply and denote you as the referrer. You can also follow up with our People Ops Director ahead of their application to confirm your referral.
  
- ## Sections
+## Sections
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
