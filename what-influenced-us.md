@@ -34,17 +34,20 @@ Hailing from a Computer Science background with years of different industry expe
 Our goal was and still is to this day, to make it possible and even easy, simple and delightful to plan and run everything from small and simple to large and complex projects, in a way that is highly automated and profitable.
 
 We are achieving our goal through a fresh approach where we apply AI and Machine Learning technology to ease the dull, numbing pain of administering projects, people and time. We do this so our customers can spend their time on exciting this, fresh ideas and all the fun stuff. We take pride in having customers from all around the globe to put trust in us helping them run their businesses better and smarter.
-
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
+* **[What influenced us](what-influenced-us.md) <-- You're here**
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
+
