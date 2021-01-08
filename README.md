@@ -35,6 +35,7 @@ CEO
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
