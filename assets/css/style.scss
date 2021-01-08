@@ -1,4 +1,9 @@
-@import "";
-.page-header {
-    padding: 0.5rem 1rem;
+---
+---
+
+@import "{{ site.theme }}";
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
 }
