@@ -10,6 +10,14 @@
 .page-header a.btn {
     visibility: hidden;
 }
+.project-name {
+    background:url(myImg.gif) 0 0 no-repeat;
+    display:block;
+    height:200px; /* your image height */
+    text-indent:-99999em;
+    width:200px; /* your image width */
+    overflow:hidden;
+}
 .project-tagline {
     opacity: 1;
 }
