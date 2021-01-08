@@ -9,7 +9,7 @@ This policy doesn’t refer to traveling to and from the office on a daily basis
 
 ### Policy elements
 As our employee, you may need to travel for company purposes. This includes trips to:
--   Meet with clients or partners.
+-   Meet with customers or partners.
     
 -   Attend events, like conferences, where you’ll represent our company.
     
