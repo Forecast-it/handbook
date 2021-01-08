@@ -54,7 +54,8 @@ Forecast has gone over quite a few iterations and with each one we've learnt mor
 
 ![2008-4](/screens/2008-4.png)
 
-## Other sections
+## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
@@ -63,7 +64,9 @@ Forecast has gone over quite a few iterations and with each one we've learnt mor
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
+* **[Product history](product-history.md) <-- You're here**
