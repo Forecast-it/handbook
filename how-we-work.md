@@ -95,13 +95,16 @@ Actually, if you never make a mistake you're probably not pushing yourself enoug
 -- Frank Herbert, Dune
 
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
 * [What influenced us](what-influenced-us.md)
+* **[How we work](how-we-work.md) <-- You're here**
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
