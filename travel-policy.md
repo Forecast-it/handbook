@@ -89,6 +89,7 @@ We ask you to use your best judgment when traveling for company purposes and to 
 When you’re back from your trip, submit all expenses through expensify or by sending them to the accounting team at accounting@forecast.app within two months. This includes documentation of the trip to claim your per diem, please include if any meals were provided. If you had a reason not to submit expenses within that period, talk to your manager. They’ll be the ones to approve your expenses for reimbursement. You’ll receive the money within a few weeks after your manager approves.
 
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
@@ -97,6 +98,8 @@ When you’re back from your trip, submit all expenses through expensify or by s
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
+* **[Travel policy](travel-policy.md) <-- You're here**
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
 * [Side jobs](side-jobs.md)
