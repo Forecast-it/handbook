@@ -42,6 +42,7 @@ In general we’d like to be lenient within reason, but we’re going to be stri
 Please ask if in doubt :smile:
 
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
@@ -50,7 +51,9 @@ Please ask if in doubt :smile:
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
+* **[Side jobs](side-jobs.md) <-- You're here**
 * [Product history](product-history.md)
