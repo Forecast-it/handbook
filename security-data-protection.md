@@ -28,6 +28,7 @@ All Forecasters must adhere to the following guidelines to ensure privacy and da
 1. If you're the last one to leave the office, make sure that the alarm and video surveillance has been activated.
 
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
@@ -36,7 +37,9 @@ All Forecasters must adhere to the following guidelines to ensure privacy and da
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
 * [Referral program](referral-program.md)
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
+* **[Security & data protection](security-data-protection.md) <-- You're here**
 * [Side jobs](side-jobs.md)
 * [Product history](product-history.md)
