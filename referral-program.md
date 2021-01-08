@@ -35,6 +35,7 @@ Your referral must not have already applied to Forecast in the six months preced
 Please direct your referral to our [Careers site](http://jobs.forecast.it/) where they can directly apply and denote you as the referrer. You can also follow up with our People Ops Director ahead of their application to confirm your referral.
  
 ## Sections
+* [Handbook front](README.md)
 * [You, as a Forecaster](you-as-a-forecaster.md)
 * [Why we're here](why-we-are-here.md)
 * [Our values](our-values.md)
@@ -42,6 +43,8 @@ Please direct your referral to our [Careers site](http://jobs.forecast.it/) wher
 * [How we work](how-we-work.md)
 * [Rituals](rituals.md)
 * [Career progression](career-progression.md)
+* **[Referral program](referral-program.md) <-- You're here**
+* [Benefits](benefits.md)
 * [Travel policy](travel-policy.md)
 * [Holiday policies](holiday-policies.md)
 * [Security & data protection](security-data-protection.md)
