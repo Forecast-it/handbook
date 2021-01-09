@@ -11,12 +11,13 @@
     display: none;
 }
 .project-name {
-    background: url(Forecast_Logotype_right_white.png) 0 0 no-repeat;
+    background: url(Forecast_Logotype_right_white.png) center no-repeat;
     display: block;
     height: 50px;
     text-indent: -99999em;
     width: 100%;
     overflow: hidden;
+    background-size: contain;
 }
 .project-tagline {
     opacity: 1;
