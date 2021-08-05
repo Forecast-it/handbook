@@ -32,7 +32,7 @@ The bonus will be paid out in the next available payroll from when the referee c
 Your referral must not have already applied to Forecast in the six months preceding your referral or have already previously interviewed or been employed at Forecast. Your referral must also be for a permanent full-time position - not a contractor or consultant. 
 
 ## How do I submit a referral?
-Please submit your referral to our [Careers site](hire.eu.lever) where you can directly add your referral, choosing what open role is most appropriate. 
+Please submit your referral to our [Careers site](http://hire.eu.lever) where you can directly add your referral, choosing what open role is most appropriate. 
  
 ## Sections
 * [Handbook front](README.md)
