@@ -16,9 +16,9 @@ If we hire your referral and they complete their probationary period successfull
 
 *Note that the referral bonus will be subject to local tax 
 
-## Who can participate in our employee referral program?
+## Who is eligible to receive an employee referral bonus?
 
-All Forecasters including full time and part time are eligible to refer talent into Forecast. 
+All Forecasters including full time and part time are eligible to receive the referral bonus.
 
 The exceptions to this are:
 * Hiring managers referring for their own open positions
