@@ -1,5 +1,5 @@
 # Employee referral program
-At Forecast it's super duper important to get and retain the best talent. As we put a lot of trust in all Forecasters we strongly believe that they also surround themselves with likeminded and talented people.
+At Forecast it's super duper important to hire and retain the best talent. As we put a lot of trust in all Forecasters we strongly believe that they also surround themselves with likeminded and talented people.
 
 That's why we have an employee referral program, and this program policy applies to every Forecaster who refers a candidate to our company. We want to make this process as smooth as possible for our employees and those who they refer.
 
@@ -32,7 +32,7 @@ The bonus will be paid out in the next available payroll from when the referee c
 Your referral must not have already applied to Forecast in the six months preceding your referral or have already previously interviewed or been employed at Forecast. Your referral must also be for a permanent full-time position - not a contractor or consultant. 
 
 ## How do I submit a referral?
-Please submit your referral to our [Careers site](http://hire.eu.lever) where you can directly add your referral, choosing what open role is most appropriate. 
+Please submit your referral to our [Careers site](http://hire.eu.lever.co) where you can directly add your candidate, and select which open role is most appropriate. You can track candidates referred and their progress from the same link.
  
 ## Sections
 * [Handbook front](README.md)
